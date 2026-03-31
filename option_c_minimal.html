@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>方案C - 极简控制台</title>
+  <style>
+    :root{
+      --p:#78B8D9;--s:#9FD4B1;--a:#E9D08A;--bg:#f6f8fc;--text:#101826;--muted:#5b6b7f;--line:#d8e0ea;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--text);font-family:"Noto Sans SC","Segoe UI",sans-serif}
+    .wrap{max-width:1200px;margin:0 auto;padding:18px 14px 26px}
+    h1{margin:0;font-size:1.45rem}
+    .sub{margin:6px 0 12px;color:var(--muted)}
+    .switch{
+      display:grid;grid-template-columns:repeat(8,minmax(72px,1fr));gap:8px;padding:10px;border:1px solid var(--line);
+      border-radius:12px;background:#fff;margin-bottom:12px;
+    }
+    .opt input{position:absolute;opacity:0}
+    .opt label{
+      display:block;text-align:center;border:1px solid var(--line);border-radius:10px;padding:9px 6px;cursor:pointer;
+      font-size:.84rem;font-weight:700;background:#fff;transition:.15s ease;
+    }
+    .opt input:checked+label{background:color-mix(in srgb,#fff 58%,var(--p) 42%);border-color:var(--p)}
+    .cards{display:grid;grid-template-columns:1.1fr 1fr 1fr;gap:10px}
+    .card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:14px;min-height:360px}
+    h2{margin:0 0 8px;font-size:1rem}
+    .bar{height:4px;width:52px;background:var(--p);border-radius:8px;margin-bottom:10px}
+    .tag{
+      display:inline-block;padding:3px 8px;border-radius:999px;border:1px solid var(--line);
+      background:color-mix(in srgb,#fff 72%,var(--s) 28%);font-size:.75rem;margin-bottom:8px
+    }
+    .desc{line-height:1.75;font-size:.94rem}
+    .mood{margin-top:8px;color:var(--muted);font-size:.9rem}
+    .sw{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+    .item{border:1px solid var(--line);border-radius:10px;padding:8px}
+    .c{height:36px;border-radius:8px;border:1px solid #cdd7e4;margin-bottom:6px}
+    .n{font-size:.78rem;color:var(--muted)}
+    .v{font:.75rem ui-monospace,Consolas,monospace}
+    ul{margin:0;padding-left:1rem;line-height:1.75;font-size:.92rem}
+    .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+    .chip{font-size:.74rem;padding:4px 8px;border:1px solid var(--line);border-radius:999px;background:color-mix(in srgb,#fff 65%,var(--a) 35%)}
+    .src{margin-top:10px;color:var(--muted);font-size:.78rem}
+    @media (max-width:1050px){
+      .switch{grid-template-columns:repeat(4,minmax(100px,1fr))}
+      .cards{grid-template-columns:1fr}
+      .card{min-height:auto}
+    }
+    @media (max-width:680px){
+      .switch{grid-template-columns:repeat(2,minmax(100px,1fr))}
+      .sw{grid-template-columns:1fr}
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <h1>方案 C：极简控制台</h1>
+    <p class="sub">结构最简洁，信息优先，适合做快速定稿和设计系统讨论。</p>
+    <section id="switch" class="switch"></section>
+    <section class="cards">
+      <article class="card">
+        <h2>描述摘要</h2><div class="bar"></div>
+        <span id="nation" class="tag"></span>
+        <div id="summary" class="desc"></div>
+        <div id="mood" class="mood"></div>
+      </article>
+      <article class="card">
+        <h2>配色数值</h2><div class="bar"></div>
+        <div id="swatches" class="sw"></div>
+      </article>
+      <article class="card">
+        <h2>应用建议</h2><div class="bar"></div>
+        <ul id="usage"></ul>
+        <div id="chips" class="chips"></div>
+        <div id="source" class="src"></div>
+      </article>
+    </section>
+  </main>
+  <script>
+    const DATA={
+      mondstadt:{l:"蒙德",n:"蒙德 · Mondstadt",sum:"自由城邦与湖风气质，整体轻透、明快。",m:"建议：蓝绿低饱和 + 暖金小点。",p:{主色:"#78B8D9",辅色:"#9FD4B1",点缀:"#E9D08A",背景:"#EAF7FF"},u:["背景先用浅蓝梯度。","交互高亮控制在点状。","插图建议通透高亮。"],k:["自由","风","湖","诗歌"],s:"104900"},
+      liyue:{l:"璃月",n:"璃月 · Liyue",sum:"山岩港贸并存，稳重、古典、繁荣。",m:"建议：金/玉双主轴，层级清晰。",p:{主色:"#C8953C",辅色:"#5D7C66",点缀:"#D4B77E",背景:"#F8F1E5"},u:["标题色偏深金。","内容区用米白+浅绿。","边框保持细线。"],k:["契约","山岩","商港","秩序"],s:"104901"},
+      inazuma:{l:"稻妻",n:"稻妻 · Inazuma",sum:"封闭群岛与雷暴气质，冷峻强对比。",m:"建议：深紫主导，樱粉作小面积冲突。",p:{主色:"#6E63B9",辅色:"#3B4E78",点缀:"#E7A9D4",背景:"#ECE9FA"},u:["主背景先压暗。","状态色用电光蓝。","尽量避免橙黄主色。"],k:["永恒","雷霆","樱色","岛链"],s:"104902"},
+      sumeru:{l:"须弥",n:"须弥 · Sumeru",sum:"雨林与沙海并置，知识与遗迹并存。",m:"建议：绿色做信息主轴，沙金做叙事点。",p:{主色:"#4F9966",辅色:"#A7BE64",点缀:"#CDA760",背景:"#EEF7E8"},u:["信息面板优先绿色。","章节可用沙金强调。","暗色改深橄榄。"],k:["智慧","雨林","沙海","遗迹"],s:"104903"},
+      fontaine:{l:"枫丹",n:"枫丹 · Fontaine",sum:"陆中之海，理性秩序与水流文明。",m:"建议：蓝系高明度，冷灰控制秩序感。",p:{主色:"#4CA5D9",辅色:"#7DCFE6",点缀:"#C4D6E5",背景:"#EAF6FF"},u:["卡片可做轻玻璃。","图表优先蓝灰系。","动效偏平滑流线。"],k:["众水","审判","剧场","秩序"],s:"112546"},
+      natlan:{l:"纳塔",n:"纳塔 · Natlan",sum:"火焰与誓言之地，热烈、野性、爆发。",m:"建议：高饱和橙红主导，注意可读性。",p:{主色:"#E4682C",辅色:"#A33D21",点缀:"#F0B248",背景:"#FFF1E6"},u:["CTA优先暖高饱和。","正文区适当降饱和。","背景可加颗粒感。"],k:["誓言","火焰","部族","战歌"],s:"125279"},
+      snezhnaya:{l:"至冬",n:"至冬 · Snezhnaya",sum:"“无慈悲的永冬”对应冷硬压迫氛围。",m:"建议：冰蓝钢灰，红色仅作警示。",p:{主色:"#8CB7D9",辅色:"#5C738E",点缀:"#D96E6E",背景:"#EEF4FA"},u:["页面留白更大。","线条色偏钢灰。","警示红降低饱和度。"],k:["永冬","风暴","铁律","冰霜"],s:"103718"},
+      nodkrai:{l:"月国",n:"月国 · Nod-Krai",sum:"月祝福之地，银辉、冻湖、长夜。",m:"建议：夜蓝+月银，冷紫作神秘层。",p:{主色:"#7F9CCF",辅色:"#55789B",点缀:"#C9BEDF",背景:"#EEF1FA"},u:["顶部可用银蓝渐变。","标签偏冷紫灰。","高光尽量冷白。"],k:["月祝福","长夜","冻湖","银辉"],s:"159175"}
+    };
+    const ORDER=["mondstadt","liyue","inazuma","sumeru","fontaine","natlan","snezhnaya","nodkrai"];
+    const switchEl=document.getElementById("switch");
+    const nation=document.getElementById("nation");
+    const summary=document.getElementById("summary");
+    const mood=document.getElementById("mood");
+    const swatches=document.getElementById("swatches");
+    const usage=document.getElementById("usage");
+    const chips=document.getElementById("chips");
+    const source=document.getElementById("source");
+    ORDER.forEach((k,i)=>{
+      const t=DATA[k],d=document.createElement("div");
+      d.className="opt";
+      d.innerHTML=`<input type="radio" name="theme" id="${k}" value="${k}" ${i===0?"checked":""}><label for="${k}">${t.l}</label>`;
+      switchEl.appendChild(d);
+    });
+    function setTheme(k){
+      const t=DATA[k]; if(!t) return;
+      document.documentElement.style.setProperty("--p",t.p.主色);
+      document.documentElement.style.setProperty("--s",t.p.辅色);
+      document.documentElement.style.setProperty("--a",t.p.点缀);
+      document.documentElement.style.setProperty("--bg",t.p.背景);
+      document.documentElement.style.setProperty("--line",`color-mix(in srgb, ${t.p.主色} 22%, #dbe4ef)`);
+      nation.textContent=t.n; summary.textContent=t.sum; mood.textContent=t.m; source.textContent=`来源：官方内容 ${t.s}`;
+      swatches.innerHTML="";
+      Object.entries(t.p).forEach(([n,v])=>{
+        const e=document.createElement("div");
+        e.className="item";
+        e.innerHTML=`<div class="c" style="background:${v}"></div><div class="n">${n}</div><div class="v">${v}</div>`;
+        swatches.appendChild(e);
+      });
+      usage.innerHTML=""; t.u.forEach(x=>{const li=document.createElement("li");li.textContent=x;usage.appendChild(li);});
+      chips.innerHTML=""; t.k.forEach(x=>{const c=document.createElement("span");c.className="chip";c.textContent=x;chips.appendChild(c);});
+    }
+    setTheme("mondstadt");
+    switchEl.addEventListener("change",e=>{if(e.target.name==="theme") setTheme(e.target.value);});
+  </script>
+</body>
+</html>

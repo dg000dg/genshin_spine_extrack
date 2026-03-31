@@ -1,0 +1,14 @@
+{
+  "name": "spine-gif-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Extract and preview Spine assets from Genshin activity pages",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "playwright-core": "^1.54.2",
+    "yazl": "^3.3.1"
+  }
+}
