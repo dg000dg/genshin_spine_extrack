@@ -1,0 +1,47 @@
+[
+  {
+    "id": "nangongyu",
+    "name": "南宫羽",
+    "json": "./spine/南宫羽.json",
+    "atlas": "./spine/南宫羽.atlas",
+    "defaultAnimation": "idle",
+    "defaultSkin": "",
+    "premultipliedAlpha": true
+  },
+  {
+    "id": "xixifu",
+    "name": "希希芙",
+    "json": "./spine/希希芙.json",
+    "atlas": "./spine/希希芙.atlas",
+    "defaultAnimation": "idle",
+    "defaultSkin": "",
+    "premultipliedAlpha": true
+  },
+  {
+    "id": "qiiasika",
+    "name": "恰斯卡",
+    "json": "./spine/恰斯卡.json",
+    "atlas": "./spine/恰斯卡.atlas",
+    "defaultAnimation": "idle",
+    "defaultSkin": "",
+    "premultipliedAlpha": true
+  },
+  {
+    "id": "moon1",
+    "name": "月神1",
+    "json": "./spine/月神1.json",
+    "atlas": "./spine/月神1.atlas",
+    "defaultAnimation": "idle",
+    "defaultSkin": "",
+    "premultipliedAlpha": true
+  },
+  {
+    "id": "raiden",
+    "name": "雷电将军",
+    "json": "./spine/雷电将军.json",
+    "atlas": "./spine/雷电将军.atlas",
+    "defaultAnimation": "idle",
+    "defaultSkin": "",
+    "premultipliedAlpha": true
+  }
+]
