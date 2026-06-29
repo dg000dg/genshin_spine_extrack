@@ -1,0 +1,95 @@
+{
+  "timestamp": "20250925230203",
+  "version": "3.6",
+  "title": "Back to Earth in Evernight",
+  "source": "https://web.archive.org/web/20250925230203id_/https://hsr.hoyoverse.com/en-us/",
+  "config_count": 1,
+  "atlas_count": 4,
+  "saved_count": 4,
+  "assets": [
+    {
+      "path": "bc673a50458342cce1d06f048ebbcdaa_8389668059466134877",
+      "atlas_name": "bc673a50458342cce1d06f048ebbcdaa_8389668059466134877.atlas",
+      "json_name": "92276c90bf512fe41caf08e1e1a3d2bc_8608990776287420917.json",
+      "png_name": "changyeyue.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/bc673a50458342cce1d06f048ebbcdaa_8389668059466134877.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/92276c90bf512fe41caf08e1e1a3d2bc_8608990776287420917.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/d2ab658b289ebef125d0c5f80ab43a46_2473975125952846561.png",
+      "pngs": [
+        {
+          "name": "changyeyue.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/d2ab658b289ebef125d0c5f80ab43a46_2473975125952846561.png"
+        },
+        {
+          "name": "changyeyue_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/61dff1bc638900e88b309043c3fedc88_308206944265948162.png"
+        }
+      ]
+    },
+    {
+      "path": "b54989deb4036024bc3333e33510810c_871476877186174493",
+      "atlas_name": "b54989deb4036024bc3333e33510810c_871476877186174493.atlas",
+      "json_name": "c51a9b92adc1a69a925f1e29288547c4_3430776405937372469.json",
+      "png_name": "tenghuang.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/b54989deb4036024bc3333e33510810c_871476877186174493.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/c51a9b92adc1a69a925f1e29288547c4_3430776405937372469.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/75682073472c756a73eaa04599e6e029_9217783160845014875.png",
+      "pngs": [
+        {
+          "name": "tenghuang.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/75682073472c756a73eaa04599e6e029_9217783160845014875.png"
+        },
+        {
+          "name": "tenghuang_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/9e690296b1a8d6f77ad7fda58adc34d6_8682917718898235249.png"
+        },
+        {
+          "name": "tenghuang_3.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/723d54b52ee0a7fe7073a70a6dc57993_110042494298548669.png"
+        }
+      ]
+    },
+    {
+      "path": "bc673a50458342cce1d06f048ebbcdaa_6066039965075344246",
+      "atlas_name": "bc673a50458342cce1d06f048ebbcdaa_6066039965075344246.atlas",
+      "json_name": "92276c90bf512fe41caf08e1e1a3d2bc_2356999821425829110.json",
+      "png_name": "changyeyue.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/bc673a50458342cce1d06f048ebbcdaa_6066039965075344246.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/92276c90bf512fe41caf08e1e1a3d2bc_2356999821425829110.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/d2ab658b289ebef125d0c5f80ab43a46_266938784534621398.png",
+      "pngs": [
+        {
+          "name": "changyeyue.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/d2ab658b289ebef125d0c5f80ab43a46_266938784534621398.png"
+        },
+        {
+          "name": "changyeyue_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/61dff1bc638900e88b309043c3fedc88_8141659277773729909.png"
+        }
+      ]
+    },
+    {
+      "path": "b54989deb4036024bc3333e33510810c_5336348216352211390",
+      "atlas_name": "b54989deb4036024bc3333e33510810c_5336348216352211390.atlas",
+      "json_name": "c51a9b92adc1a69a925f1e29288547c4_6307413771058551006.json",
+      "png_name": "tenghuang.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/b54989deb4036024bc3333e33510810c_5336348216352211390.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/c51a9b92adc1a69a925f1e29288547c4_6307413771058551006.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/75682073472c756a73eaa04599e6e029_8576036010882368161.png",
+      "pngs": [
+        {
+          "name": "tenghuang.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/75682073472c756a73eaa04599e6e029_8576036010882368161.png"
+        },
+        {
+          "name": "tenghuang_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/9e690296b1a8d6f77ad7fda58adc34d6_6816816887371934586.png"
+        },
+        {
+          "name": "tenghuang_3.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_acyOXI3piV/resource/puzzle/2025/09/12/723d54b52ee0a7fe7073a70a6dc57993_5375474538317581446.png"
+        }
+      ]
+    }
+  ]
+}
