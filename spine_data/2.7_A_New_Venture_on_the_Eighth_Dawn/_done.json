@@ -1,0 +1,71 @@
+{
+  "timestamp": "20250102004758",
+  "version": "2.7",
+  "title": "A New Venture on the Eighth Dawn",
+  "source": "https://web.archive.org/web/20250102004758id_/https://hsr.hoyoverse.com/en-us/",
+  "config_count": 1,
+  "atlas_count": 4,
+  "saved_count": 4,
+  "assets": [
+    {
+      "path": "3a2112c87832eccd5681d348e68c6e3d_1789636982463424055",
+      "atlas_name": "3a2112c87832eccd5681d348e68c6e3d_1789636982463424055.atlas",
+      "json_name": "d4bb7f98e82bb33b9f2c9070cd4b9c05_7954130681224281424.json",
+      "png_name": "xingqiri.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/3a2112c87832eccd5681d348e68c6e3d_1789636982463424055.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/d4bb7f98e82bb33b9f2c9070cd4b9c05_7954130681224281424.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/3cbb383dd6487e89c40ab14b039a90f5_6765476327891975251.png",
+      "pngs": [
+        {
+          "name": "xingqiri.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/3cbb383dd6487e89c40ab14b039a90f5_6765476327891975251.png"
+        }
+      ]
+    },
+    {
+      "path": "469089b78dc71bdd82921462dd762c1d_4128355607166994167",
+      "atlas_name": "469089b78dc71bdd82921462dd762c1d_4128355607166994167.atlas",
+      "json_name": "224fb34f60ccb29b7747758c50e04088_8797483711530581908.json",
+      "png_name": "wangguiren.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/469089b78dc71bdd82921462dd762c1d_4128355607166994167.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/224fb34f60ccb29b7747758c50e04088_8797483711530581908.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/3d06cb01e2ef8730f5528e737d44f133_4322415547614612785.png",
+      "pngs": [
+        {
+          "name": "wangguiren.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/3d06cb01e2ef8730f5528e737d44f133_4322415547614612785.png"
+        }
+      ]
+    },
+    {
+      "path": "3a2112c87832eccd5681d348e68c6e3d_2185281092479143778",
+      "atlas_name": "3a2112c87832eccd5681d348e68c6e3d_2185281092479143778.atlas",
+      "json_name": "d4bb7f98e82bb33b9f2c9070cd4b9c05_4716713065437897538.json",
+      "png_name": "xingqiri.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/3a2112c87832eccd5681d348e68c6e3d_2185281092479143778.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/d4bb7f98e82bb33b9f2c9070cd4b9c05_4716713065437897538.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/3cbb383dd6487e89c40ab14b039a90f5_8187041403666111522.png",
+      "pngs": [
+        {
+          "name": "xingqiri.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/3cbb383dd6487e89c40ab14b039a90f5_8187041403666111522.png"
+        }
+      ]
+    },
+    {
+      "path": "469089b78dc71bdd82921462dd762c1d_6643878627263993504",
+      "atlas_name": "469089b78dc71bdd82921462dd762c1d_6643878627263993504.atlas",
+      "json_name": "224fb34f60ccb29b7747758c50e04088_5261487134380528225.json",
+      "png_name": "wangguiren.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/469089b78dc71bdd82921462dd762c1d_6643878627263993504.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/224fb34f60ccb29b7747758c50e04088_5261487134380528225.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/3d06cb01e2ef8730f5528e737d44f133_2251661604583401437.png",
+      "pngs": [
+        {
+          "name": "wangguiren.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_j2RvUui7w9/resource/puzzle/2024/11/19/3d06cb01e2ef8730f5528e737d44f133_2251661604583401437.png"
+        }
+      ]
+    }
+  ]
+}

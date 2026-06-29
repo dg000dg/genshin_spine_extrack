@@ -1,0 +1,151 @@
+{
+  "timestamp": "20241110220725",
+  "version": "2.6",
+  "title": "Annals of Pinecany's Mappou Age",
+  "source": "https://web.archive.org/web/20241110220725id_/https://hsr.hoyoverse.com/en-us/",
+  "config_count": 1,
+  "atlas_count": 8,
+  "saved_count": 8,
+  "assets": [
+    {
+      "path": "73c2b177ebc956f511eef4ad86aa812b_4108347431604349936",
+      "atlas_name": "73c2b177ebc956f511eef4ad86aa812b_4108347431604349936.atlas",
+      "json_name": "2b0db4c6a0b5f185b14d92f2ce73ec69_5959763309846729450.json",
+      "png_name": "luanpo.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/73c2b177ebc956f511eef4ad86aa812b_4108347431604349936.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/2b0db4c6a0b5f185b14d92f2ce73ec69_5959763309846729450.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/79715dc576de6be4a31c68dc670ac0ae_4810491153109907774.png",
+      "pngs": [
+        {
+          "name": "luanpo.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/79715dc576de6be4a31c68dc670ac0ae_4810491153109907774.png"
+        }
+      ]
+    },
+    {
+      "path": "f4eae8fe4e2ed2e08c44a81511ea8bf3_1103072780087716626",
+      "atlas_name": "f4eae8fe4e2ed2e08c44a81511ea8bf3_1103072780087716626.atlas",
+      "json_name": "e5243a2d275fe8ec16762d245b5fef21_1827159358996357225.json",
+      "png_name": "danheng_yinyue.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/f4eae8fe4e2ed2e08c44a81511ea8bf3_1103072780087716626.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/e5243a2d275fe8ec16762d245b5fef21_1827159358996357225.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/690817171e3ba6f7a82c3a9857bacfe2_4766995195909263919.png",
+      "pngs": [
+        {
+          "name": "danheng_yinyue.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/690817171e3ba6f7a82c3a9857bacfe2_4766995195909263919.png"
+        }
+      ]
+    },
+    {
+      "path": "f3970fda257ed1685816f93dfff94d54_3686049680978687155",
+      "atlas_name": "f3970fda257ed1685816f93dfff94d54_3686049680978687155.atlas",
+      "json_name": "fc1eaf1c7e109ff6b04a0d9506e2f6cf_3288948965845596116.json",
+      "png_name": "huangquan.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/17/f3970fda257ed1685816f93dfff94d54_3686049680978687155.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/17/fc1eaf1c7e109ff6b04a0d9506e2f6cf_3288948965845596116.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/17/757d2a2b0f7926bb28c1ae1fc64cb00c_1886975423581280322.png",
+      "pngs": [
+        {
+          "name": "huangquan.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/17/757d2a2b0f7926bb28c1ae1fc64cb00c_1886975423581280322.png"
+        },
+        {
+          "name": "huangquan_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/17/da76b305260692e82b28aca4f28b0bd2_2161310722525155400.png"
+        }
+      ]
+    },
+    {
+      "path": "5b8a295e11a29e45474c39aea5f39c8f_9166671295672449180",
+      "atlas_name": "5b8a295e11a29e45474c39aea5f39c8f_9166671295672449180.atlas",
+      "json_name": "ae6d8ddefc1bd1f2cca884e034bf3ca5_6137774763686726718.json",
+      "png_name": "shajin_26.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/11/5b8a295e11a29e45474c39aea5f39c8f_9166671295672449180.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/11/ae6d8ddefc1bd1f2cca884e034bf3ca5_6137774763686726718.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/11/b68b372bdb8371f055d2a430b397ac87_1338690543735895694.png",
+      "pngs": [
+        {
+          "name": "shajin_26.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/11/b68b372bdb8371f055d2a430b397ac87_1338690543735895694.png"
+        }
+      ]
+    },
+    {
+      "path": "73c2b177ebc956f511eef4ad86aa812b_5394773337827606579",
+      "atlas_name": "73c2b177ebc956f511eef4ad86aa812b_5394773337827606579.atlas",
+      "json_name": "2b0db4c6a0b5f185b14d92f2ce73ec69_8059338392132991477.json",
+      "png_name": "luanpo.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/73c2b177ebc956f511eef4ad86aa812b_5394773337827606579.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/2b0db4c6a0b5f185b14d92f2ce73ec69_8059338392132991477.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/79715dc576de6be4a31c68dc670ac0ae_6277095903293868125.png",
+      "pngs": [
+        {
+          "name": "luanpo.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/79715dc576de6be4a31c68dc670ac0ae_6277095903293868125.png"
+        }
+      ]
+    },
+    {
+      "path": "77a5837f947381dde953136ab7dccb74_5942320145598183492",
+      "atlas_name": "77a5837f947381dde953136ab7dccb74_5942320145598183492.atlas",
+      "json_name": "1bb86375a54c82e7048c7a0fe05d6698_748813644876435278.json",
+      "png_name": "danheng_yinyue.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/12/77a5837f947381dde953136ab7dccb74_5942320145598183492.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/12/1bb86375a54c82e7048c7a0fe05d6698_748813644876435278.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/12/715cc0ccc3cd08c4bdf8c7c2d179fa3a_9061208039283375934.png",
+      "pngs": [
+        {
+          "name": "danheng_yinyue.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/10/12/715cc0ccc3cd08c4bdf8c7c2d179fa3a_9061208039283375934.png"
+        }
+      ]
+    },
+    {
+      "path": "e0e2521863135b086fc9dde918ca7c2c_3700950497144033149",
+      "atlas_name": "e0e2521863135b086fc9dde918ca7c2c_3700950497144033149.atlas",
+      "json_name": "975c89d2b6471a5ca4d9f40b81bb0fbe_2832609477795100233.json",
+      "png_name": "huangquan.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/e0e2521863135b086fc9dde918ca7c2c_3700950497144033149.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/975c89d2b6471a5ca4d9f40b81bb0fbe_2832609477795100233.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/caf3a4b2e044a24a19fd884c600293d7_5565949530544543701.png",
+      "pngs": [
+        {
+          "name": "huangquan.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/caf3a4b2e044a24a19fd884c600293d7_5565949530544543701.png"
+        },
+        {
+          "name": "huangquan_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/d657639de9a748946818b953e72922e1_5461386983890975564.png"
+        },
+        {
+          "name": "huangquan_3.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/cd4b2d420a65e0181865252da6ca672a_6350060969642316149.png"
+        }
+      ]
+    },
+    {
+      "path": "d4d835826c7f108a17eb025379e89d57_8630413078891439765",
+      "atlas_name": "d4d835826c7f108a17eb025379e89d57_8630413078891439765.atlas",
+      "json_name": "62174632ed1cbd092d7cbf0381672fcd_5536089668847422254.json",
+      "png_name": "shajin.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/d4d835826c7f108a17eb025379e89d57_8630413078891439765.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/62174632ed1cbd092d7cbf0381672fcd_5536089668847422254.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/58ddede7a6a3856613e7164faaaa3270_6336958881570814205.png",
+      "pngs": [
+        {
+          "name": "shajin.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/58ddede7a6a3856613e7164faaaa3270_6336958881570814205.png"
+        },
+        {
+          "name": "shajin_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/695f15a982075669955fdad98d274688_6346382786429114995.png"
+        },
+        {
+          "name": "shajin_3.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_Zi1woiyylB/resource/puzzle/2024/09/27/001af4d829034d6f3993d00738c98292_8709214055144484776.png"
+        }
+      ]
+    }
+  ]
+}

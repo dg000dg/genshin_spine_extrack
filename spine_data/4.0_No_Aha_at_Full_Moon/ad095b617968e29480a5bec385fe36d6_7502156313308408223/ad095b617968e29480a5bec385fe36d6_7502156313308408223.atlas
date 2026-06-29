@@ -1,0 +1,565 @@
+yaoguang.png
+	size: 2048, 2038
+	filter: Linear, Linear
+	scale: 0.26
+Y_bg1
+	bounds: 394, 495, 231, 228
+	offsets: 0, 1, 231, 229
+Y_bg10
+	bounds: 120, 461, 273, 261
+	rotate: 90
+Y_bg11
+	bounds: 767, 188, 138, 306
+	rotate: 90
+Y_bg12
+	bounds: 1110, 186, 143, 246
+	rotate: 270
+Y_bg13
+	bounds: 1870, 1642, 139, 390
+Y_bg14
+	bounds: 6, 1106, 97, 318
+Y_bg15
+	bounds: 797, 1062, 51, 54
+Y_bg16
+	bounds: 6, 318, 255, 329
+	rotate: 270
+Y_bg17
+	bounds: 1826, 753, 36, 62
+Y_bg18
+	bounds: 6, 1935, 6, 21
+Y_bg19
+	bounds: 460, 1849, 11, 33
+Y_bg2
+	bounds: 1687, 1520, 33, 15
+Y_bg20
+	bounds: 1119, 451, 64, 108
+Y_bg21
+	bounds: 67, 1998, 23, 11
+Y_bg22
+	bounds: 283, 2021, 27, 11
+Y_bg23
+	bounds: 985, 252, 96, 82
+Y_bg24
+	bounds: 1388, 625, 44, 56
+Y_bg25
+	bounds: 1824, 1304, 36, 55
+Y_bg26
+	bounds: 341, 228, 112, 103
+Y_bg27
+	bounds: 652, 616, 94, 119
+Y_bg28
+	bounds: 638, 658, 60, 66
+Y_bg29
+	bounds: 744, 753, 60, 72
+Y_bg3
+	bounds: 1447, 1365, 575, 189
+Y_bg30
+	bounds: 1445, 953, 57, 61
+Y_bg31
+	bounds: 1969, 1573, 58, 63
+Y_bg32
+	bounds: 21, 1603, 433, 388
+Y_bg33
+	bounds: 1180, 687, 347, 259
+	rotate: 90
+Y_bg34
+	bounds: 396, 2026, 82, 6
+Y_bg35
+	bounds: 6, 1962, 9, 20
+Y_bg36
+	bounds: 2023, 1102, 19, 49
+Y_bg37
+	bounds: 286, 455, 72, 93
+Y_bg38
+	bounds: 1843, 489, 59, 56
+Y_bg39
+	bounds: 1870, 141, 85, 96
+Y_bg4
+	bounds: 641, 294, 261, 472
+	rotate: 90
+Y_bg40
+	bounds: 95, 551, 67, 67
+Y_bg41
+	bounds: 1447, 1352, 54, 50
+Y_bg42
+	bounds: 1447, 1541, 491, 417
+	rotate: 90
+Y_bg43
+	bounds: 484, 1206, 826, 957
+	rotate: 90
+Y_bg44
+	bounds: 625, 1053, 147, 369
+	rotate: 90
+Y_bg5
+	bounds: 1619, 580, 189, 138
+Y_bg6
+	bounds: 1922, 1343, 120, 126
+Y_bg7
+	bounds: 669, 493, 342, 176
+Y_bg8
+	bounds: 340, 399, 239, 90
+Y_bg9
+	bounds: 6, 111, 189, 144
+	rotate: 180
+Y_bgeye
+	bounds: 1445, 717, 75, 89
+Y_bgeye2
+	bounds: 1949, 1924, 88, 108
+Y_bhair1
+	bounds: 582, 98, 70, 171
+	rotate: 90
+Y_bhair10
+	bounds: 1238, 1042, 111, 41
+Y_bhair11
+	bounds: 6, 1987, 247, 45
+Y_bhair12
+	bounds: 757, 88, 91, 128
+Y_bhair13
+	bounds: 1485, 170, 195, 60
+Y_bhair14
+	bounds: 1963, 1745, 78, 173
+Y_bhair15
+	bounds: 240, 783, 152, 206
+	rotate: 180
+Y_bhair16
+	bounds: 1652, 1366, 25, 20
+Y_bhair17
+	bounds: 188, 78, 77, 109
+	rotate: 90
+Y_bhair18
+	bounds: 1456, 115, 186, 56
+Y_bhair19
+	bounds: 1570, 350, 121, 63
+Y_bhair2
+	bounds: 253, 1998, 34, 142
+	rotate: 90
+Y_bhair20
+	bounds: 1447, 1245, 19, 48
+Y_bhair21
+	bounds: 67, 1515, 45, 30
+Y_bhair22
+	bounds: 1447, 1411, 27, 14
+Y_bhair23
+	bounds: 1435, 429, 111, 57
+Y_bhair24
+	bounds: 1945, 1135, 97, 48
+Y_bhair25
+	bounds: 705, 925, 20, 47
+Y_bhair26
+	bounds: 310, 290, 192, 103
+Y_bhair3
+	bounds: 959, 95, 60, 156
+	rotate: 90
+Y_bhair4
+	bounds: 6, 398, 43, 88
+Y_bhair5
+	bounds: 1346, 103, 83, 140
+Y_bhair6
+	bounds: 790, 408, 82, 82
+Y_bhair7
+	bounds: 1443, 142, 233, 190
+Y_bhair8
+	bounds: 1643, 1326, 125, 33
+Y_bhair9
+	bounds: 1948, 362, 94, 39
+Y_bi
+	bounds: 463, 1702, 14, 12
+Y_body1
+	bounds: 1969, 1550, 19, 17
+Y_body2
+	bounds: 1014, 567, 80, 81
+Y_body3
+	bounds: 1921, 915, 121, 167
+Y_body4
+	bounds: 347, 668, 38, 59
+Y_ear
+	bounds: 1929, 1643, 22, 14
+Y_face
+	bounds: 1937, 1166, 105, 100
+Y_fg1
+	bounds: 258, 725, 484, 475
+	offsets: 163, 20, 647, 659
+Y_fg2
+	bounds: 6, 917, 467, 680
+	offsets: 23, 0, 654, 680
+Y_fg3
+	bounds: 734, 822, 440, 378
+	offsets: 0, 0, 457, 378
+Y_fire1
+	bounds: 429, 230, 164, 376
+	rotate: 270
+Y_fire2
+	bounds: 6, 594, 116, 47
+Y_fire3
+	bounds: 1583, 319, 438, 249
+	rotate: 180
+Y_fire42
+	bounds: 21, 171, 161, 163
+	rotate: 270
+Y_fire43
+	bounds: 1646, 86, 137, 97
+Y_fire44
+	bounds: 303, 1460, 150, 137
+Y_fire45
+	bounds: 1870, 1541, 93, 96
+Y_fire5
+	bounds: 6, 647, 215, 264
+Y_fire6
+	bounds: 41, 198, 181, 263
+	offsets: 0, 110, 181, 373
+	rotate: 90
+Y_fire7
+	bounds: 303, 165, 265, 139
+	rotate: 180
+Y_fire8
+	bounds: 1870, 1719, 33, 57
+Y_fire9
+	bounds: 1686, 162, 213, 144
+	rotate: 180
+Y_gs1
+	bounds: 708, 597, 31, 26
+Y_gs2
+	bounds: 460, 1964, 14, 29
+Y_gs3
+	bounds: 1931, 1988, 12, 34
+Y_gs4
+	bounds: 1630, 532, 99, 43
+Y_gs5
+	bounds: 947, 1102, 49, 29
+Y_gs6
+	bounds: 1614, 1312, 23, 21
+Y_gs7
+	bounds: 460, 1632, 13, 15
+Y_gs8
+	bounds: 1870, 1791, 10, 32
+Y_leg1
+	bounds: 1466, 1265, 122, 185
+	rotate: 90
+Y_leg2
+	bounds: 605, 1116, 84, 148
+	rotate: 90
+Y_leg3
+	bounds: 1508, 951, 75, 52
+Y_leg4
+	bounds: 628, 175, 177, 126
+Y_leg5
+	bounds: 1093, 1051, 143, 149
+Y_leg6
+	bounds: 1870, 1655, 67, 74
+Y_lhand1
+	bounds: 1999, 1488, 43, 43
+Y_lhand10
+	bounds: 100, 1341, 30, 27
+Y_lhand11
+	bounds: 607, 1082, 32, 29
+	offsets: 1, 0, 33, 34
+Y_lhand12
+	bounds: 1870, 2004, 26, 28
+Y_lhand13
+	bounds: 141, 1570, 31, 27
+Y_lhand14
+	bounds: 340, 1999, 34, 14
+Y_lhand15
+	bounds: 1575, 615, 69, 60
+Y_lhand16
+	bounds: 429, 1185, 34, 82
+Y_lhand2
+	bounds: 1786, 413, 67, 87
+Y_lhand3
+	bounds: 227, 702, 38, 68
+Y_lhand4
+	bounds: 460, 1936, 16, 22
+Y_lhand5
+	bounds: 460, 1790, 11, 14
+Y_lhand6
+	bounds: 1610, 1488, 71, 47
+Y_lhand7
+	bounds: 2019, 1547, 21, 20
+Y_lhand8
+	bounds: 1770, 1351, 39, 19
+Y_lhand9
+	bounds: 460, 1672, 10, 9
+Y_line1
+	bounds: 6, 1086, 45, 43
+Y_line10
+	bounds: 954, 6, 450, 174
+	offsets: 0, 0, 450, 176
+	rotate: 180
+Y_line11
+	bounds: 460, 1772, 12, 12
+Y_line12
+	bounds: 447, 1430, 22, 24
+Y_line2
+	bounds: 1869, 1514, 21, 21
+Y_line4
+	bounds: 1350, 1042, 59, 32
+Y_line5
+	bounds: 460, 1810, 14, 14
+Y_line6
+	bounds: 1756, 36, 147, 227
+	offsets: 17, 13, 170, 242
+	rotate: 90
+Y_line7
+	bounds: 1506, 55, 194, 95
+Y_line8
+	bounds: 460, 1888, 15, 16
+Y_line9
+	bounds: 6, 1918, 9, 10
+Y_lingm1
+	bounds: 1200, 1009, 787, 342
+Y_lingm10
+	bounds: 1560, 682, 153, 64
+Y_lingm11
+	bounds: 1858, 70, 210, 184
+	rotate: 270
+Y_lingm12
+	bounds: 745, 490, 353, 429
+	rotate: 90
+Y_lingm123
+	bounds: 875, 357, 238, 177
+Y_lingm124
+	bounds: 1330, 249, 320, 283
+	rotate: 180
+Y_lingm13
+	bounds: 1054, 287, 240, 433
+	rotate: 90
+Y_lingm14
+	bounds: 1184, 1072, 146, 123
+Y_lingm15
+	bounds: 10, 1469, 128, 161
+	rotate: 90
+Y_lingm16
+	bounds: 345, 1273, 181, 119
+	rotate: 90
+Y_lingm2
+	bounds: 1239, 551, 131, 130
+Y_lingm3
+	bounds: 1656, 240, 373, 108
+Y_lingm4
+	bounds: 1863, 435, 245, 179
+	rotate: 270
+Y_lingm5
+	bounds: 193, 149, 185, 108
+	rotate: 180
+Y_lingm6
+	bounds: 1447, 1488, 157, 47
+Y_lingm7
+	bounds: 1464, 701, 556, 425
+	rotate: 180
+Y_lingm8
+	bounds: 1045, 147, 104, 207
+	rotate: 270
+Y_lingm9
+	bounds: 1644, 505, 369, 398
+	rotate: 270
+Y_mei1
+	bounds: 460, 1598, 11, 18
+Y_mei2
+	bounds: 2004, 1791, 11, 18
+Y_mei3
+	bounds: 1870, 1645, 18, 16
+Y_neck
+	bounds: 1526, 758, 34, 29
+Y_rhand1
+	bounds: 1967, 803, 34, 39
+Y_rhand10
+	bounds: 6, 1157, 25, 31
+Y_rhand11
+	bounds: 1148, 1160, 37, 40
+Y_rhand12
+	bounds: 1465, 1469, 35, 33
+Y_rhand13
+	bounds: 1507, 1369, 60, 22
+Y_rhand14
+	bounds: 1081, 387, 38, 55
+Y_rhand15
+	bounds: 1903, 1314, 58, 28
+Y_rhand16
+	bounds: 1992, 1288, 44, 49
+Y_rhand17
+	bounds: 597, 1161, 36, 39
+Y_rhand18
+	bounds: 1262, 1186, 33, 14
+Y_rhand19
+	bounds: 701, 978, 87, 97
+Y_rhand2
+	bounds: 460, 1720, 10, 11
+Y_rhand20
+	bounds: 6, 924, 34, 38
+Y_rhand21
+	bounds: 1884, 1412, 32, 37
+Y_rhand22
+	bounds: 866, 1098, 128, 71
+Y_rhand23
+	bounds: 268, 712, 30, 31
+Y_rhand24
+	bounds: 460, 1737, 10, 11
+Y_rhand3
+	bounds: 188, 923, 41, 47
+Y_rhand4
+	bounds: 235, 2026, 25, 6
+Y_rhand5
+	bounds: 122, 2000, 17, 7
+Y_rhand6
+	bounds: 325, 2000, 9, 5
+Y_rhand7
+	bounds: 1932, 2028, 6, 4
+Y_rhand8
+	bounds: 266, 2017, 7, 7
+Y_rhand92
+	bounds: 541, 94, 44, 86
+Y_rhand93
+	bounds: 750, 408, 95, 79
+Y_skt1
+	bounds: 595, 415, 62, 74
+Y_skt10
+	bounds: 460, 1687, 13, 8
+Y_skt11
+	bounds: 2015, 1644, 26, 23
+Y_skt12
+	bounds: 1231, 125, 125, 97
+Y_skt13
+	bounds: 1180, 461, 397, 238
+	rotate: 180
+Y_skt14
+	bounds: 6, 445, 32, 101
+Y_skt15
+	bounds: 454, 1121, 25, 58
+Y_skt16
+	bounds: 2022, 1673, 20, 75
+Y_skt17
+	bounds: 376, 136, 63, 188
+	rotate: 90
+Y_skt18
+	bounds: 2004, 856, 34, 81
+Y_skt19
+	bounds: 826, 117, 76, 213
+	rotate: 90
+Y_skt2
+	bounds: 1129, 799, 45, 64
+Y_skt20
+	bounds: 2013, 567, 29, 73
+Y_skt21
+	bounds: 1841, 386, 69, 201
+	rotate: 90
+Y_skt22
+	bounds: 1262, 323, 73, 145
+	rotate: 90
+Y_skt3
+	bounds: 51, 1361, 56, 44
+Y_skt4
+	bounds: 1890, 1166, 48, 45
+Y_skt5
+	bounds: 108, 1214, 98, 122
+Y_skt6
+	bounds: 1883, 841, 126, 94
+Y_skt7
+	bounds: 1327, 642, 64, 39
+Y_skt8
+	bounds: 567, 157, 165, 109
+Y_skt9
+	bounds: 6, 1884, 8, 10
+Y_tf1
+	bounds: 1592, 574, 41, 60
+Y_tf10
+	bounds: 189, 1210, 51, 63
+Y_tf11
+	bounds: 1938, 475, 75, 28
+Y_tf12
+	bounds: 1447, 1298, 23, 48
+Y_tf13
+	bounds: 1017, 541, 74, 33
+Y_tf14
+	bounds: 401, 1999, 69, 21
+Y_tf2
+	bounds: 1845, 1316, 62, 48
+Y_tf3
+	bounds: 227, 894, 20, 76
+Y_tf4
+	bounds: 112, 1171, 30, 77
+Y_tf5
+	bounds: 1719, 733, 33, 38
+Y_tf6
+	bounds: 68, 1080, 58, 42
+Y_tf7
+	bounds: 1998, 1272, 30, 10
+Y_tf8
+	bounds: 1325, 1170, 80, 30
+Y_tf9
+	bounds: 760, 1184, 28, 16
+Y_ts1
+	bounds: 6, 1405, 20, 24
+Y_ts10
+	bounds: 1900, 1108, 46, 42
+Y_ts11
+	bounds: 695, 1015, 36, 36
+Y_ts19
+	bounds: 460, 1830, 14, 14
+Y_ts2
+	bounds: 460, 1910, 16, 20
+Y_ts3
+	bounds: 786, 770, 37, 46
+Y_ts4
+	bounds: 279, 1503, 18, 46
+Y_ts5
+	bounds: 79, 1091, 38, 74
+Y_ts6
+	bounds: 96, 2001, 20, 10
+Y_ts7
+	bounds: 460, 1754, 10, 12
+Y_ts8
+	bounds: 1521, 677, 30, 28
+Y_ts9
+	bounds: 2015, 1686, 10, 23
+Y_yan1
+	bounds: 6, 2023, 3, 9
+Y_yan10
+	bounds: 460, 1613, 15, 13
+Y_yan11
+	bounds: 1952, 1907, 6, 11
+Y_yan12
+	bounds: 380, 2000, 16, 11
+Y_yan13
+	bounds: 1870, 2029, 3, 3
+Y_yan14
+	bounds: 6, 1900, 8, 12
+Y_yan15
+	bounds: 1907, 1706, 12, 11
+Y_yan17
+	bounds: 2022, 1903, 19, 15
+Y_yan19
+	bounds: 1930, 1964, 11, 18
+Y_yan2
+	bounds: 402, 2017, 9, 3
+Y_yan3
+	bounds: 218, 2028, 6, 4
+Y_yan4
+	bounds: 1938, 1944, 4, 13
+Y_yan5
+	bounds: 1994, 1815, 11, 21
+Y_yan6
+	bounds: 114, 1492, 23, 17
+Y_yan7
+	bounds: 11, 1838, 4, 17
+Y_yan8
+	bounds: 266, 2029, 14, 3
+Y_yan9
+	bounds: 1870, 1738, 10, 11
+Y_yy1
+	bounds: 6, 1858, 8, 20
+Y_yy2
+	bounds: 1726, 1519, 41, 16
+Y_yy3
+	bounds: 1445, 903, 41, 44
+Y_zui
+	bounds: 460, 1653, 12, 13
+
+yaoguang_2.png
+	size: 508, 348
+	filter: Linear, Linear
+	scale: 0.26
+Y_line13
+	bounds: 19, 6, 280, 483
+	rotate: 270
+Y_line3
+	bounds: 6, 6, 399, 336

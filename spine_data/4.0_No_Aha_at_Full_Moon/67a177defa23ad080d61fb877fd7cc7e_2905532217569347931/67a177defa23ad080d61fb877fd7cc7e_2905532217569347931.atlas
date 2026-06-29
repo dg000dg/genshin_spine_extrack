@@ -1,0 +1,635 @@
+hnm.png
+	size: 2028, 2044
+	filter: Linear, Linear
+	scale: 0.26
+H_bg1
+	bounds: 1496, 1209, 469, 829
+H_bg12
+	bounds: 1171, 588, 481, 842
+H_bg32
+	bounds: 445, 34, 471, 209
+H_bizi
+	bounds: 292, 1329, 10, 8
+H_bozi0
+	bounds: 47, 1495, 9, 8
+H_bozi1
+	bounds: 1240, 1939, 12, 13
+H_bozi2
+	bounds: 708, 815, 39, 36
+H_bozi3
+	bounds: 244, 1851, 13, 10
+H_bozi4
+	bounds: 6, 1716, 17, 15
+H_deng1
+	bounds: 99, 1033, 33, 33
+	offsets: 1, 1, 35, 35
+H_deng2
+	bounds: 1157, 1272, 28, 38
+	offsets: 1, 1, 31, 40
+H_deng3
+	bounds: 872, 994, 51, 39
+	offsets: 1, 1, 53, 41
+H_dibu1
+	bounds: 824, 1355, 564, 574
+	offsets: 1, 1, 566, 576
+H_dibu2
+	bounds: 6, 192, 572, 582
+	offsets: 1, 1, 574, 584
+	rotate: 90
+H_dibu3
+	bounds: 1009, 1960, 91, 78
+H_dixing1
+	bounds: 1111, 351, 829, 298
+	offsets: 0, 5, 829, 303
+H_dixing2
+	bounds: 1706, 510, 830, 302
+	rotate: 270
+H_duihuakuang2
+	bounds: 1339, 1980, 47, 58
+	offsets: 1, 1, 49, 60
+H_duihuakuang3
+	bounds: 1394, 1380, 54, 62
+	offsets: 1, 1, 56, 64
+H_duihuakuang4
+	bounds: 594, 442, 62, 66
+	offsets: 1, 1, 64, 68
+H_erhuan
+	bounds: 804, 1512, 12, 13
+	offsets: 1, 1, 14, 15
+H_hongxian
+	bounds: 594, 139, 662, 894
+	rotate: 180
+H_houbu1
+	bounds: 18, 1303, 21, 23
+H_houbu2
+	bounds: 201, 1322, 17, 15
+H_houbu3
+	bounds: 1059, 1229, 27, 20
+H_houpiaoda2
+	bounds: 1226, 873, 25, 30
+H_houpiaoda3
+	bounds: 613, 733, 85, 55
+H_houpiaoda4
+	bounds: 594, 210, 58, 53
+H_houpiaoda5
+	bounds: 1009, 1937, 50, 17
+H_houpiaoda6
+	bounds: 1613, 792, 40, 56
+H_houpiaoda7
+	bounds: 129, 1684, 32, 12
+H_houpiaodai1
+	bounds: 1170, 530, 27, 30
+H_houyaodai
+	bounds: 275, 1344, 35, 23
+H_jiemao1
+	bounds: 203, 2033, 10, 5
+H_jiemao2
+	bounds: 6, 1533, 7, 11
+	offsets: 1, 0, 8, 11
+H_jiemao3
+	bounds: 6, 1950, 7, 5
+H_jiemao4
+	bounds: 6, 1818, 5, 8
+H_jiemao5
+	bounds: 203, 1169, 20, 20
+	offsets: 0, 0, 20, 21
+H_jiemao6
+	bounds: 304, 1952, 12, 11
+H_jiemao7
+	bounds: 68, 1539, 16, 17
+H_laba1
+	bounds: 919, 1940, 84, 98
+	offsets: 1, 1, 86, 100
+H_laba2
+	bounds: 1570, 640, 130, 147
+	offsets: 1, 1, 132, 149
+H_laba3
+	bounds: 6, 972, 87, 110
+	offsets: 1, 1, 89, 112
+H_laba4
+	bounds: 1106, 1948, 69, 90
+	offsets: 1, 1, 71, 92
+H_laba5
+	bounds: 1641, 1007, 49, 70
+	offsets: 1, 1, 51, 72
+H_laba6
+	bounds: 1262, 542, 29, 57
+	offsets: 1, 1, 31, 59
+H_laba7
+	bounds: 1567, 1924, 33, 52
+	offsets: 1, 1, 35, 54
+H_laba8
+	bounds: 6, 1332, 45, 51
+	offsets: 1, 1, 47, 53
+H_labag1
+	bounds: 1394, 1911, 112, 127
+	offsets: 1, 1, 114, 129
+H_labag3
+	bounds: 594, 269, 140, 154
+	offsets: 1, 2, 142, 157
+H_labag4
+	bounds: 820, 1228, 133, 119
+	offsets: 12, 17, 146, 137
+H_labag5
+	bounds: 829, 1935, 84, 100
+	offsets: 1, 1, 86, 103
+H_labag6
+	bounds: 808, 939, 58, 87
+	offsets: 1, 1, 60, 89
+H_labag7
+	bounds: 1259, 1961, 74, 77
+	offsets: 1, 1, 76, 79
+H_labag8
+	bounds: 1181, 1958, 72, 80
+	offsets: 1, 1, 74, 82
+H_lian0
+	bounds: 209, 1937, 101, 101
+H_lian1
+	bounds: 394, 1983, 6, 6
+H_lian2
+	bounds: 6, 1832, 6, 7
+H_lingdang1
+	bounds: 1748, 2011, 26, 27
+	offsets: 1, 1, 28, 29
+H_lingdang2
+	bounds: 6, 1234, 33, 64
+H_maozi1
+	bounds: 642, 2018, 68, 18
+H_maozi10
+	bounds: 6, 770, 10, 7
+	offsets: 1, 1, 12, 9
+H_maozi11
+	bounds: 76, 1367, 16, 13
+	offsets: 1, 1, 18, 15
+H_maozi12
+	bounds: 575, 2007, 63, 27
+H_maozi2
+	bounds: 29, 1861, 6, 5
+	offsets: 1, 1, 8, 7
+H_maozi3
+	bounds: 517, 1389, 48, 21
+H_maozi4
+	bounds: 1283, 1936, 26, 19
+H_maozi5
+	bounds: 1551, 1438, 28, 50
+H_maozi6
+	bounds: 1620, 2016, 41, 22
+	offsets: 0, 0, 42, 23
+H_maozi7
+	bounds: 752, 1425, 40, 39
+H_maozi8
+	bounds: 805, 1550, 11, 17
+H_maozi9
+	bounds: 314, 1972, 56, 15
+H_meimao1
+	bounds: 600, 1404, 18, 16
+	offsets: 1, 1, 20, 18
+H_memao2
+	bounds: 807, 1573, 7, 17
+	offsets: 1, 2, 9, 20
+H_miaobian
+	bounds: 6, 1072, 305, 218
+	rotate: 90
+H_miaobian23
+	bounds: 6, 1701, 317, 232
+	rotate: 90
+H_piaoda2
+	bounds: 1473, 1724, 41, 51
+H_piaoda3
+	bounds: 337, 44, 22, 37
+H_piaoda4
+	bounds: 1150, 451, 55, 73
+H_piaoda5
+	bounds: 244, 1867, 30, 65
+H_piaoda6
+	bounds: 1949, 1631, 62, 109
+H_piaoda7
+	bounds: 1612, 1188, 33, 50
+H_piaoda8
+	bounds: 1966, 1982, 44, 56
+H_piaodai1
+	bounds: 808, 236, 70, 69
+H_qianfa1
+	bounds: 1718, 1199, 38, 76
+H_qianfa10
+	bounds: 107, 2022, 68, 16
+H_qianfa11
+	bounds: 1984, 1928, 37, 49
+H_qianfa12
+	bounds: 1069, 992, 41, 56
+	rotate: 90
+H_qianfa13
+	bounds: 1188, 904, 44, 81
+H_qianfa14
+	bounds: 800, 1433, 16, 55
+H_qianfa15
+	bounds: 1644, 931, 21, 53
+H_qianfa16
+	bounds: 337, 22, 46, 51
+	rotate: 90
+H_qianfa17
+	bounds: 1702, 985, 66, 24
+	rotate: 90
+H_qianfa18
+	bounds: 1087, 1936, 47, 13
+H_qianfa19
+	bounds: 1903, 1369, 109, 63
+H_qianfa2
+	bounds: 1394, 1799, 45, 40
+H_qianfa20
+	bounds: 1157, 1162, 22, 67
+H_qianfa3
+	bounds: 959, 1228, 50, 31
+H_qianfa4
+	bounds: 1243, 740, 34, 47
+H_qianfa5
+	bounds: 637, 1413, 51, 17
+H_qianfa6
+	bounds: 1651, 793, 39, 43
+H_qianfa7
+	bounds: 959, 1235, 95, 57
+H_qianfa8
+	bounds: 1859, 1331, 68, 29
+H_qianfa9
+	bounds: 464, 1993, 41, 11
+	offsets: 1, 0, 42, 11
+H_qianxiong1
+	bounds: 1174, 1937, 41, 15
+H_qianxiong2
+	bounds: 1442, 1606, 85, 59
+H_qunzi1
+	bounds: 220, 1255, 68, 114
+H_qunzi10
+	bounds: 1779, 2004, 32, 28
+H_qunzi11
+	bounds: 807, 1597, 8, 11
+H_qunzi12
+	bounds: 796, 310, 30, 35
+H_qunzi13
+	bounds: 1606, 1930, 19, 40
+H_qunzi14
+	bounds: 1200, 985, 25, 33
+H_qunzi15
+	bounds: 199, 1341, 30, 32
+H_qunzi16
+	bounds: 872, 962, 16, 26
+	offsets: 1, 1, 18, 28
+H_qunzi17
+	bounds: 230, 1230, 22, 25
+H_qunzi18
+	bounds: 1282, 1326, 26, 23
+	offsets: 1, 1, 28, 25
+H_qunzi19
+	bounds: 6, 893, 51, 73
+H_qunzi2
+	bounds: 1626, 1084, 90, 139
+H_qunzi3
+	bounds: 124, 1636, 23, 44
+H_qunzi4
+	bounds: 99, 987, 29, 40
+H_qunzi5
+	bounds: 1461, 1861, 27, 44
+H_qunzi6
+	bounds: 6, 1845, 18, 28
+H_qunzi7
+	bounds: 1394, 1612, 33, 31
+H_qunzi8
+	bounds: 106, 2014, 7, 11
+H_qunzi9
+	bounds: 50, 1510, 19, 24
+H_shangyanjian1
+	bounds: 186, 1142, 22, 22
+H_shangyanjian2
+	bounds: 223, 1200, 15, 20
+H_she
+	bounds: 1222, 1936, 15, 12
+H_shenti1
+	bounds: 383, 81, 103, 85
+H_shenti10
+	bounds: 1909, 1966, 72, 72
+H_shenti11
+	bounds: 690, 1423, 57, 25
+H_shenti12
+	bounds: 1066, 1937, 15, 17
+	offsets: 1, 1, 17, 19
+H_shenti13
+	bounds: 6, 1215, 17, 18
+H_shenti14
+	bounds: 138, 1055, 17, 22
+	offsets: 0, 0, 18, 22
+H_shenti2
+	bounds: 492, 770, 82, 27
+H_shenti3
+	bounds: 1568, 1946, 107, 92
+H_shenti4
+	bounds: 6, 1949, 73, 67
+H_shenti5
+	bounds: 1454, 1407, 46, 35
+H_shenti6
+	bounds: 740, 246, 21, 49
+H_shenti7
+	bounds: 6, 1872, 39, 43
+H_shenti8
+	bounds: 1186, 902, 27, 33
+H_shenti9
+	bounds: 1958, 1871, 40, 50
+H_star2
+	bounds: 6, 8, 325, 178
+	offsets: 1, 1, 327, 180
+H_star22
+	bounds: 815, 1039, 336, 183
+	offsets: 1, 1, 338, 185
+H_sticker1
+	bounds: 1394, 1448, 151, 152
+	offsets: 1, 1, 153, 154
+H_touyy1
+	bounds: 594, 517, 37, 40
+H_touyy2
+	bounds: 450, 144, 32, 42
+H_touyy3
+	bounds: 63, 915, 14, 51
+H_touyy4
+	bounds: 559, 769, 41, 32
+	rotate: 90
+H_touyy5
+	bounds: 272, 1908, 39, 31
+	rotate: 90
+H_touyy6
+	bounds: 1432, 1763, 38, 32
+H_tx1
+	bounds: 6, 2022, 95, 16
+	offsets: 1, 1, 97, 18
+H_tx12
+	bounds: 464, 2010, 106, 28
+	offsets: 1, 1, 108, 30
+H_tx2
+	bounds: 1204, 500, 52, 153
+	offsets: 1, 1, 54, 155
+H_tx22
+	bounds: 6, 1550, 65, 159
+	offsets: 1, 1, 67, 161
+H_tx32
+	bounds: 1592, 40, 395, 315
+	offsets: 1, 1, 397, 317
+H_tx4
+	bounds: 6, 769, 658, 812
+	offsets: 0, 0, 693, 812
+	rotate: 90
+H_tx42
+	bounds: 6, 1366, 672, 817
+	offsets: 0, 0, 692, 817
+	rotate: 90
+H_tx5
+	bounds: 1145, 1316, 131, 33
+	offsets: 1, 1, 133, 37
+H_tx52
+	bounds: 316, 1995, 142, 43
+	offsets: 1, 1, 144, 45
+H_tx62
+	bounds: 1110, 6, 476, 340
+	offsets: 1, 1, 478, 342
+H_xiayanjian1
+	bounds: 271, 1890, 12, 11
+H_xiayanjian2
+	bounds: 202, 1769, 14, 15
+H_ya
+	bounds: 214, 1790, 12, 10
+	offsets: 0, 0, 12, 11
+H_yan1
+	bounds: 803, 1494, 13, 12
+	offsets: 1, 1, 15, 14
+H_yan2
+	bounds: 300, 2025, 10, 13
+H_yanbai1
+	bounds: 6, 1430, 14, 15
+	offsets: 1, 1, 16, 17
+H_yanbai2
+	bounds: 38, 1944, 12, 15
+H_yanxian1
+	bounds: 6, 1413, 10, 11
+H_yanxian2
+	bounds: 77, 1676, 9, 13
+H_yanxian3
+	bounds: 225, 1805, 11, 13
+H_yanxian4
+	bounds: 576, 2029, 11, 9
+	offsets: 0, 0, 11, 10
+H_youmawei1
+	bounds: 593, 718, 121, 116
+H_youmawei2
+	bounds: 423, 7, 49, 106
+H_youmawei4
+	bounds: 488, 118, 71, 68
+H_youmawei5
+	bounds: 1932, 1831, 102, 90
+	rotate: 270
+H_youshou1
+	bounds: 577, 1400, 14, 14
+	offsets: 1, 1, 16, 16
+H_youshou10
+	bounds: 1259, 1935, 18, 20
+	offsets: 1, 1, 20, 22
+H_youshou11
+	bounds: 418, 164, 17, 22
+	offsets: 1, 1, 19, 24
+H_youshou12
+	bounds: 57, 1348, 13, 34
+	offsets: 1, 1, 15, 36
+H_youshou13
+	bounds: 1339, 1935, 45, 39
+	offsets: 1, 1, 47, 41
+H_youshou2
+	bounds: 1677, 1990, 65, 48
+	offsets: 1, 1, 67, 50
+H_youshou3
+	bounds: 1394, 1648, 128, 132
+H_youshou4
+	bounds: 1228, 594, 76, 154
+H_youshou42
+	bounds: 1079, 1234, 77, 115
+H_youshou5
+	bounds: 740, 245, 72, 147
+H_youshou6
+	bounds: 662, 460, 19, 21
+	offsets: 1, 1, 21, 23
+H_youshou7
+	bounds: 1964, 1768, 34, 60
+H_youshou8
+	bounds: 6, 823, 15, 24
+	offsets: 1, 1, 17, 26
+H_youshou9
+	bounds: 804, 908, 28, 25
+	offsets: 1, 1, 30, 27
+H_youtui1
+	bounds: 716, 2028, 17, 9
+H_youtui2
+	bounds: 117, 1612, 9, 20
+	offsets: 0, 0, 9, 21
+H_youtui3
+	bounds: 1084, 1287, 11, 23
+H_youtui4
+	bounds: 78, 947, 14, 19
+H_youtui5
+	bounds: 6, 1451, 43, 93
+H_youtui6
+	bounds: 1512, 1910, 50, 128
+H_youtui7
+	bounds: 77, 1560, 46, 138
+H_youtui8
+	bounds: 1507, 1416, 28, 26
+	offsets: 1, 1, 30, 28
+H_zui01
+	bounds: 83, 1996, 17, 18
+H_zui012
+	bounds: 959, 1336, 15, 13
+	offsets: 2, 5, 17, 18
+H_zui02
+	bounds: 77, 1692, 15, 16
+H_zuomawei1
+	bounds: 1643, 927, 71, 74
+H_zuomawei2
+	bounds: 1465, 651, 90, 109
+H_zuomawei3
+	bounds: 1965, 1652, 27, 79
+H_zuomawei4
+	bounds: 1935, 1744, 57, 81
+H_zuomawei6
+	bounds: 1009, 1008, 84, 25
+H_zuomawei7
+	bounds: 1826, 1318, 85, 162
+	rotate: 90
+H_zuoshou1
+	bounds: 1103, 941, 107, 106
+H_zuoshou10
+	bounds: 1157, 1935, 11, 7
+	offsets: 1, 1, 13, 9
+H_zuoshou11
+	bounds: 441, 770, 10, 11
+	offsets: 1, 1, 12, 13
+H_zuoshou12
+	bounds: 6, 849, 40, 40
+H_zuoshou13
+	bounds: 662, 433, 44, 21
+	offsets: 1, 1, 46, 23
+H_zuoshou14
+	bounds: 337, 74, 60, 112
+H_zuoshou15
+	bounds: 959, 1229, 164, 120
+H_zuoshou16
+	bounds: 858, 35, 203, 127
+H_zuoshou17
+	bounds: 1191, 1285, 26, 25
+	offsets: 1, 1, 28, 27
+H_zuoshou18
+	bounds: 178, 2011, 27, 23
+H_zuoshou2
+	bounds: 1924, 1853, 38, 109
+H_zuoshou3
+	bounds: 1503, 1654, 26, 36
+H_zuoshou4
+	bounds: 1135, 414, 36, 25
+H_zuoshou5
+	bounds: 396, 141, 27, 26
+H_zuoshou6
+	bounds: 1314, 1945, 11, 10
+	offsets: 1, 1, 13, 12
+H_zuoshou7
+	bounds: 376, 1981, 12, 8
+	offsets: 1, 1, 14, 10
+H_zuoshou8
+	bounds: 805, 1531, 11, 12
+	offsets: 1, 1, 13, 14
+H_zuoshou9
+	bounds: 1140, 1935, 11, 7
+	offsets: 1, 1, 13, 9
+H_zuotui1
+	bounds: 236, 1824, 12, 22
+H_zuotui2
+	bounds: 624, 1408, 20, 11
+H_zuotui3
+	bounds: 211, 1948, 11, 20
+H_zuotui4
+	bounds: 1055, 1327, 18, 22
+H_zuotui5
+	bounds: 1157, 1065, 44, 82
+H_zuotui6
+	bounds: 1394, 1780, 94, 125
+H_zuotui7
+	bounds: 1695, 1058, 38, 105
+H_zuotui8
+	bounds: 6, 1922, 28, 21
+	offsets: 1, 1, 30, 23
+
+hnm_2.png
+	size: 1925, 1011
+	filter: Linear, Linear
+	scale: 0.26
+H_bg2
+	bounds: 864, 377, 152, 387
+	rotate: 90
+H_bg22
+	bounds: 1063, 584, 165, 399
+	rotate: 90
+H_bg3
+	bounds: 606, 507, 458, 197
+	rotate: 180
+H_duihuakuang
+	bounds: 1728, 384, 228, 191
+	offsets: 1, 1, 230, 193
+	rotate: 90
+H_labag2
+	bounds: 1443, 104, 167, 177
+	offsets: 1, 1, 169, 179
+H_miaobian2
+	bounds: 1568, 201, 349, 220
+	rotate: 180
+H_miaobian22
+	bounds: 301, 376, 361, 233
+H_miaobian3
+	bounds: 936, 163, 213, 365
+	rotate: 270
+H_miaobian32
+	bounds: 1187, 231, 226, 376
+	rotate: 90
+H_miaobian4
+	bounds: 6, 226, 211, 401
+	rotate: 90
+H_miaobian5
+	bounds: 1278, 448, 178, 444
+	rotate: 90
+H_miaobian52
+	bounds: 1447, 618, 190, 457
+	rotate: 90
+H_miaobian6
+	bounds: 236, 90, 268, 308
+	rotate: 90
+H_miaobian62
+	bounds: 504, 225, 281, 321
+	rotate: 90
+H_star1
+	bounds: 1284, 755, 395, 250
+	offsets: 1, 1, 397, 252
+H_star12
+	bounds: 872, 744, 406, 261
+	offsets: 1, 1, 408, 263
+H_sticker2
+	bounds: 6, 487, 177, 289
+	offsets: 1, 1, 179, 291
+	rotate: 90
+H_sticker3
+	bounds: 672, 114, 218, 151
+	offsets: 1, 1, 220, 153
+H_tx3
+	bounds: 482, 701, 384, 304
+	offsets: 1, 1, 386, 306
+H_tx6
+	bounds: 6, 670, 470, 335
+	offsets: 1, 1, 472, 337
+H_youmawei3
+	bounds: 920, 18, 187, 333
+	rotate: 90
+H_zuomawei5
+	bounds: 1616, 6, 261, 253
+	rotate: 180
+H_zuomawei8
+	bounds: 6, 41, 180, 183

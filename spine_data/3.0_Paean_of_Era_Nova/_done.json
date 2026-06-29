@@ -1,0 +1,71 @@
+{
+  "timestamp": "20250115072419",
+  "version": "3.0",
+  "title": "Paean of Era Nova",
+  "source": "https://web.archive.org/web/20250115072419id_/https://hsr.hoyoverse.com/en-us/",
+  "config_count": 1,
+  "atlas_count": 4,
+  "saved_count": 4,
+  "assets": [
+    {
+      "path": "f7886d49b4ee23965cb9b5ac59108bc7_5039435595708023184",
+      "atlas_name": "f7886d49b4ee23965cb9b5ac59108bc7_5039435595708023184.atlas",
+      "json_name": "a2b2c98f78ef30beda9cd4ec41586f76_5913613106615557876.json",
+      "png_name": "daheita.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/f7886d49b4ee23965cb9b5ac59108bc7_5039435595708023184.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/a2b2c98f78ef30beda9cd4ec41586f76_5913613106615557876.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/228946db25223dd009b2613287cef273_3654972662337997635.png",
+      "pngs": [
+        {
+          "name": "daheita.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/228946db25223dd009b2613287cef273_3654972662337997635.png"
+        }
+      ]
+    },
+    {
+      "path": "dfcd7f16f5b3299f1801b72757df580b_3894250786806769590",
+      "atlas_name": "dfcd7f16f5b3299f1801b72757df580b_3894250786806769590.atlas",
+      "json_name": "2dd096eab8025a7f93d8bcdf68b2d217_8555145082459271639.json",
+      "png_name": "agelaiya_.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/dfcd7f16f5b3299f1801b72757df580b_3894250786806769590.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/2dd096eab8025a7f93d8bcdf68b2d217_8555145082459271639.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/c71e09ca51bbf28b84c05f506de6d303_6840086918673668002.png",
+      "pngs": [
+        {
+          "name": "agelaiya_.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/c71e09ca51bbf28b84c05f506de6d303_6840086918673668002.png"
+        }
+      ]
+    },
+    {
+      "path": "f7886d49b4ee23965cb9b5ac59108bc7_4707952929751661110",
+      "atlas_name": "f7886d49b4ee23965cb9b5ac59108bc7_4707952929751661110.atlas",
+      "json_name": "a2b2c98f78ef30beda9cd4ec41586f76_7243970433938691906.json",
+      "png_name": "daheita.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/f7886d49b4ee23965cb9b5ac59108bc7_4707952929751661110.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/a2b2c98f78ef30beda9cd4ec41586f76_7243970433938691906.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/228946db25223dd009b2613287cef273_6979280254415674209.png",
+      "pngs": [
+        {
+          "name": "daheita.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/228946db25223dd009b2613287cef273_6979280254415674209.png"
+        }
+      ]
+    },
+    {
+      "path": "dfcd7f16f5b3299f1801b72757df580b_5885707207698398261",
+      "atlas_name": "dfcd7f16f5b3299f1801b72757df580b_5885707207698398261.atlas",
+      "json_name": "2dd096eab8025a7f93d8bcdf68b2d217_3717573703264920339.json",
+      "png_name": "agelaiya_.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/dfcd7f16f5b3299f1801b72757df580b_5885707207698398261.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/2dd096eab8025a7f93d8bcdf68b2d217_3717573703264920339.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/c71e09ca51bbf28b84c05f506de6d303_7316153196564435582.png",
+      "pngs": [
+        {
+          "name": "agelaiya_.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_MFwriXcgwd/resource/puzzle/2025/01/03/c71e09ca51bbf28b84c05f506de6d303_7316153196564435582.png"
+        }
+      ]
+    }
+  ]
+}

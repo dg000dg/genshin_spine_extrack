@@ -1,0 +1,71 @@
+{
+  "timestamp": "20250522052232",
+  "version": "3.3",
+  "title": "The Fall at Dawn's Rise",
+  "source": "https://web.archive.org/web/20250522052232id_/https://hsr.hoyoverse.com/en-us/",
+  "config_count": 1,
+  "atlas_count": 4,
+  "saved_count": 4,
+  "assets": [
+    {
+      "path": "774ff3deb428a4643684755c9423e1c9_2271273197877734870",
+      "atlas_name": "774ff3deb428a4643684755c9423e1c9_2271273197877734870.atlas",
+      "json_name": "81875b476f0aaa6e12217b2c0ec8ff37_2127656295149439517.json",
+      "png_name": "fejing.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/05/20/774ff3deb428a4643684755c9423e1c9_2271273197877734870.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/05/20/81875b476f0aaa6e12217b2c0ec8ff37_2127656295149439517.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/05/20/d8af8d88baea9767dd03ccdd00f428f2_4430347568574641465.png",
+      "pngs": [
+        {
+          "name": "fejing.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/05/20/d8af8d88baea9767dd03ccdd00f428f2_4430347568574641465.png"
+        }
+      ]
+    },
+    {
+      "path": "fbab966a6f7a6e311a8d7bbbc646b675_4877994277943139555",
+      "atlas_name": "fbab966a6f7a6e311a8d7bbbc646b675_4877994277943139555.atlas",
+      "json_name": "e098f6ef1dca1a80d848ec1b1422d0de_5465541510941930563.json",
+      "png_name": "saife.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/04/30/fbab966a6f7a6e311a8d7bbbc646b675_4877994277943139555.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/04/30/e098f6ef1dca1a80d848ec1b1422d0de_5465541510941930563.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/04/30/fa1aec5dccde1b512de9ae2f75cbeb21_8462549989898269142.png",
+      "pngs": [
+        {
+          "name": "saife.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/04/30/fa1aec5dccde1b512de9ae2f75cbeb21_8462549989898269142.png"
+        }
+      ]
+    },
+    {
+      "path": "774ff3deb428a4643684755c9423e1c9_9004454003000246785",
+      "atlas_name": "774ff3deb428a4643684755c9423e1c9_9004454003000246785.atlas",
+      "json_name": "81875b476f0aaa6e12217b2c0ec8ff37_7298813360316505237.json",
+      "png_name": "fejing.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/05/20/774ff3deb428a4643684755c9423e1c9_9004454003000246785.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/05/20/81875b476f0aaa6e12217b2c0ec8ff37_7298813360316505237.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/05/20/d8af8d88baea9767dd03ccdd00f428f2_5027236878298541063.png",
+      "pngs": [
+        {
+          "name": "fejing.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/05/20/d8af8d88baea9767dd03ccdd00f428f2_5027236878298541063.png"
+        }
+      ]
+    },
+    {
+      "path": "fbab966a6f7a6e311a8d7bbbc646b675_7741550678825427523",
+      "atlas_name": "fbab966a6f7a6e311a8d7bbbc646b675_7741550678825427523.atlas",
+      "json_name": "e098f6ef1dca1a80d848ec1b1422d0de_8439083592930350847.json",
+      "png_name": "saife.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/04/30/fbab966a6f7a6e311a8d7bbbc646b675_7741550678825427523.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/04/30/e098f6ef1dca1a80d848ec1b1422d0de_8439083592930350847.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/04/30/fa1aec5dccde1b512de9ae2f75cbeb21_3611559182580439929.png",
+      "pngs": [
+        {
+          "name": "saife.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_127WXww3Uc/resource/puzzle/2025/04/30/fa1aec5dccde1b512de9ae2f75cbeb21_3611559182580439929.png"
+        }
+      ]
+    }
+  ]
+}

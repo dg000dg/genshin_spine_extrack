@@ -1,0 +1,87 @@
+{
+  "timestamp": "20240619085603",
+  "version": "2.3",
+  "title": "Farewell, Penacony",
+  "source": "https://web.archive.org/web/20240619085603id_/https://hsr.hoyoverse.com/en-us/",
+  "config_count": 1,
+  "atlas_count": 4,
+  "saved_count": 4,
+  "assets": [
+    {
+      "path": "963d57697ab7b99182dbc0eff62293e9_2864932183074315516",
+      "atlas_name": "963d57697ab7b99182dbc0eff62293e9_2864932183074315516.atlas",
+      "json_name": "61d31f2e0231905054021ba4e6de65aa_1360531622061338600.json",
+      "png_name": "liuyinga.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/963d57697ab7b99182dbc0eff62293e9_2864932183074315516.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/61d31f2e0231905054021ba4e6de65aa_1360531622061338600.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/cc57e156a1ee3d9c44823c49152c6dd7_120917155142419058.png",
+      "pngs": [
+        {
+          "name": "liuyinga.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/cc57e156a1ee3d9c44823c49152c6dd7_120917155142419058.png"
+        },
+        {
+          "name": "liuyinga_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/dabae3c5e20d50a5fe42c8ff97897ee0_1634362992551027417.png"
+        }
+      ]
+    },
+    {
+      "path": "1bb883ca3d91a63476682d6c8fb98e53_8314538346186635437",
+      "atlas_name": "1bb883ca3d91a63476682d6c8fb98e53_8314538346186635437.atlas",
+      "json_name": "5aa22f45ad10e6f9ed387cb41e854b06_7524635195793397280.json",
+      "png_name": "feicuia.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/1bb883ca3d91a63476682d6c8fb98e53_8314538346186635437.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/5aa22f45ad10e6f9ed387cb41e854b06_7524635195793397280.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/5d224aff097a78a984d38d77c5d0a647_4316496669533333089.png",
+      "pngs": [
+        {
+          "name": "feicuia.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/5d224aff097a78a984d38d77c5d0a647_4316496669533333089.png"
+        },
+        {
+          "name": "feicuia_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/af8e766038b9bb90da40cfcbfe01cf75_2519012329692489427.png"
+        }
+      ]
+    },
+    {
+      "path": "963d57697ab7b99182dbc0eff62293e9_4743980118874945653",
+      "atlas_name": "963d57697ab7b99182dbc0eff62293e9_4743980118874945653.atlas",
+      "json_name": "61d31f2e0231905054021ba4e6de65aa_9007181230436389604.json",
+      "png_name": "liuyinga.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/963d57697ab7b99182dbc0eff62293e9_4743980118874945653.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/61d31f2e0231905054021ba4e6de65aa_9007181230436389604.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/cc57e156a1ee3d9c44823c49152c6dd7_7914241847381411930.png",
+      "pngs": [
+        {
+          "name": "liuyinga.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/cc57e156a1ee3d9c44823c49152c6dd7_7914241847381411930.png"
+        },
+        {
+          "name": "liuyinga_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/dabae3c5e20d50a5fe42c8ff97897ee0_3207656841298419107.png"
+        }
+      ]
+    },
+    {
+      "path": "1bb883ca3d91a63476682d6c8fb98e53_4942556938520828091",
+      "atlas_name": "1bb883ca3d91a63476682d6c8fb98e53_4942556938520828091.atlas",
+      "json_name": "5aa22f45ad10e6f9ed387cb41e854b06_4350389578042889150.json",
+      "png_name": "feicuia.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/1bb883ca3d91a63476682d6c8fb98e53_4942556938520828091.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/5aa22f45ad10e6f9ed387cb41e854b06_4350389578042889150.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/5d224aff097a78a984d38d77c5d0a647_3630080671333614555.png",
+      "pngs": [
+        {
+          "name": "feicuia.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/5d224aff097a78a984d38d77c5d0a647_3630080671333614555.png"
+        },
+        {
+          "name": "feicuia_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_KQJOCs9s8O/resource/puzzle/2024/06/12/af8e766038b9bb90da40cfcbfe01cf75_5478113825435099236.png"
+        }
+      ]
+    }
+  ]
+}

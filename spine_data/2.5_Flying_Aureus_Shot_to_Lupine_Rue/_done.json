@@ -1,0 +1,101 @@
+{
+  "timestamp": "20240913133134",
+  "version": "2.5",
+  "title": "Flying Aureus Shot to Lupine Rue",
+  "source": "https://web.archive.org/web/20240913133134id_/https://hsr.hoyoverse.com/en-us/",
+  "config_count": 1,
+  "atlas_count": 6,
+  "saved_count": 6,
+  "assets": [
+    {
+      "path": "d801d3f5d30e652bf97a73e167b82740_4426663832892568796",
+      "atlas_name": "d801d3f5d30e652bf97a73e167b82740_4426663832892568796.atlas",
+      "json_name": "7e2d2ab46d83c57b73882398801226a2_2318593222429741491.json",
+      "png_name": "feixiao.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/d801d3f5d30e652bf97a73e167b82740_4426663832892568796.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/7e2d2ab46d83c57b73882398801226a2_2318593222429741491.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/ab7e40d63e7b0fd502ffab8e9aef3eff_2239408137924269278.png",
+      "pngs": [
+        {
+          "name": "feixiao.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/ab7e40d63e7b0fd502ffab8e9aef3eff_2239408137924269278.png"
+        }
+      ]
+    },
+    {
+      "path": "c40af080d02a75d74f8bdf570631d2e9_4229930451197961925",
+      "atlas_name": "c40af080d02a75d74f8bdf570631d2e9_4229930451197961925.atlas",
+      "json_name": "2061fa0256edb2d3316c28cdfbdc90bd_8601260157735872682.json",
+      "png_name": "lingsha.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/27/c40af080d02a75d74f8bdf570631d2e9_4229930451197961925.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/27/2061fa0256edb2d3316c28cdfbdc90bd_8601260157735872682.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/27/6a48f6a6c8099425634769aeb80f8a1b_4595563730115711286.png",
+      "pngs": [
+        {
+          "name": "lingsha.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/27/6a48f6a6c8099425634769aeb80f8a1b_4595563730115711286.png"
+        }
+      ]
+    },
+    {
+      "path": "55c40dcd7a8e5ac6289543e4d8e29d4d_639924249269122072",
+      "atlas_name": "55c40dcd7a8e5ac6289543e4d8e29d4d_639924249269122072.atlas",
+      "json_name": "2b4c3fcc2969700b1937ffea52406da8_5979485596065735592.json",
+      "png_name": "moze.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/55c40dcd7a8e5ac6289543e4d8e29d4d_639924249269122072.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/2b4c3fcc2969700b1937ffea52406da8_5979485596065735592.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/aefc898fb6e08c1990e72be35ee2ae1e_7036269021699961769.png",
+      "pngs": [
+        {
+          "name": "moze.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/aefc898fb6e08c1990e72be35ee2ae1e_7036269021699961769.png"
+        }
+      ]
+    },
+    {
+      "path": "d801d3f5d30e652bf97a73e167b82740_403671740590096814",
+      "atlas_name": "d801d3f5d30e652bf97a73e167b82740_403671740590096814.atlas",
+      "json_name": "7e2d2ab46d83c57b73882398801226a2_2581000169650204714.json",
+      "png_name": "feixiao.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/d801d3f5d30e652bf97a73e167b82740_403671740590096814.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/7e2d2ab46d83c57b73882398801226a2_2581000169650204714.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/ab7e40d63e7b0fd502ffab8e9aef3eff_7700527180240498956.png",
+      "pngs": [
+        {
+          "name": "feixiao.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/ab7e40d63e7b0fd502ffab8e9aef3eff_7700527180240498956.png"
+        }
+      ]
+    },
+    {
+      "path": "c40af080d02a75d74f8bdf570631d2e9_4441673852817802456",
+      "atlas_name": "c40af080d02a75d74f8bdf570631d2e9_4441673852817802456.atlas",
+      "json_name": "2061fa0256edb2d3316c28cdfbdc90bd_5819354637927215872.json",
+      "png_name": "lingsha.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/27/c40af080d02a75d74f8bdf570631d2e9_4441673852817802456.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/27/2061fa0256edb2d3316c28cdfbdc90bd_5819354637927215872.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/27/6a48f6a6c8099425634769aeb80f8a1b_7163778742776293092.png",
+      "pngs": [
+        {
+          "name": "lingsha.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/27/6a48f6a6c8099425634769aeb80f8a1b_7163778742776293092.png"
+        }
+      ]
+    },
+    {
+      "path": "55c40dcd7a8e5ac6289543e4d8e29d4d_8905187289767296501",
+      "atlas_name": "55c40dcd7a8e5ac6289543e4d8e29d4d_8905187289767296501.atlas",
+      "json_name": "2b4c3fcc2969700b1937ffea52406da8_4215473699802332998.json",
+      "png_name": "moze.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/55c40dcd7a8e5ac6289543e4d8e29d4d_8905187289767296501.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/2b4c3fcc2969700b1937ffea52406da8_4215473699802332998.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/aefc898fb6e08c1990e72be35ee2ae1e_3881490377274782202.png",
+      "pngs": [
+        {
+          "name": "moze.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_u2_p82S3PT/resource/puzzle/2024/08/22/aefc898fb6e08c1990e72be35ee2ae1e_3881490377274782202.png"
+        }
+      ]
+    }
+  ]
+}
