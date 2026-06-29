@@ -1,0 +1,111 @@
+{
+  "timestamp": "20260628120053",
+  "version": "4.0",
+  "title": "满月是神不在的时间",
+  "source": "https://act.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/config.127110e3.js",
+  "config_count": 1,
+  "atlas_count": 4,
+  "saved_count": 4,
+  "assets": [
+    {
+      "path": "ad095b617968e29480a5bec385fe36d6_8885089784885640300",
+      "atlas_name": "ad095b617968e29480a5bec385fe36d6_8885089784885640300.atlas",
+      "json_name": "9b3da1fe6a38f91acc92edddcab43243_3237665919536967393.json",
+      "png_name": "yaoguang.png",
+      "png_names": [
+        "yaoguang.png",
+        "yaoguang_2.png"
+      ],
+      "atlas": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/ad095b617968e29480a5bec385fe36d6_8885089784885640300.atlas",
+      "json": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/9b3da1fe6a38f91acc92edddcab43243_3237665919536967393.json",
+      "png": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/be455d4c44fda044c113ce7bc75853bd_9195318727811022004.png",
+      "pngs": [
+        {
+          "name": "yaoguang.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/be455d4c44fda044c113ce7bc75853bd_9195318727811022004.png",
+          "id": "yaoguang"
+        },
+        {
+          "name": "yaoguang_2.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/cba1671607e326094bc82ceb185bf51e_2817903606594255435.png",
+          "id": "yaoguang_2"
+        }
+      ]
+    },
+    {
+      "path": "67a177defa23ad080d61fb877fd7cc7e_4903581201292055551",
+      "atlas_name": "67a177defa23ad080d61fb877fd7cc7e_4903581201292055551.atlas",
+      "json_name": "5b8530567cacf8acc90d5682e6a4fd47_1135539368182160898.json",
+      "png_name": "hnm.png",
+      "png_names": [
+        "hnm.png",
+        "hnm_2.png"
+      ],
+      "atlas": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/67a177defa23ad080d61fb877fd7cc7e_4903581201292055551.atlas",
+      "json": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/5b8530567cacf8acc90d5682e6a4fd47_1135539368182160898.json",
+      "png": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/1fa300de0150bc3b8085499e5d4e187b_3745066568650008039.png",
+      "pngs": [
+        {
+          "name": "hnm.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/1fa300de0150bc3b8085499e5d4e187b_3745066568650008039.png",
+          "id": "hnm"
+        },
+        {
+          "name": "hnm_2.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/162ebe530838560d6818ddddcc30d693_9035065496294003120.png",
+          "id": "hnm_2"
+        }
+      ]
+    },
+    {
+      "path": "ad095b617968e29480a5bec385fe36d6_7502156313308408223",
+      "atlas_name": "ad095b617968e29480a5bec385fe36d6_7502156313308408223.atlas",
+      "json_name": "9b3da1fe6a38f91acc92edddcab43243_6870318833719725289.json",
+      "png_name": "yaoguang.png",
+      "png_names": [
+        "yaoguang.png",
+        "yaoguang_2.png"
+      ],
+      "atlas": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/ad095b617968e29480a5bec385fe36d6_7502156313308408223.atlas",
+      "json": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/9b3da1fe6a38f91acc92edddcab43243_6870318833719725289.json",
+      "png": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/be455d4c44fda044c113ce7bc75853bd_7041358793110848816.png",
+      "pngs": [
+        {
+          "name": "yaoguang.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/be455d4c44fda044c113ce7bc75853bd_7041358793110848816.png",
+          "id": "yaoguang"
+        },
+        {
+          "name": "yaoguang_2.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/cba1671607e326094bc82ceb185bf51e_2378440581394160444.png",
+          "id": "yaoguang_2"
+        }
+      ]
+    },
+    {
+      "path": "67a177defa23ad080d61fb877fd7cc7e_2905532217569347931",
+      "atlas_name": "67a177defa23ad080d61fb877fd7cc7e_2905532217569347931.atlas",
+      "json_name": "5b8530567cacf8acc90d5682e6a4fd47_6052451208019189696.json",
+      "png_name": "hnm.png",
+      "png_names": [
+        "hnm.png",
+        "hnm_2.png"
+      ],
+      "atlas": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/67a177defa23ad080d61fb877fd7cc7e_2905532217569347931.atlas",
+      "json": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/5b8530567cacf8acc90d5682e6a4fd47_6052451208019189696.json",
+      "png": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/1fa300de0150bc3b8085499e5d4e187b_6514719169786386370.png",
+      "pngs": [
+        {
+          "name": "hnm.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/1fa300de0150bc3b8085499e5d4e187b_6514719169786386370.png",
+          "id": "hnm"
+        },
+        {
+          "name": "hnm_2.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_XOX38O7_2l/resource/puzzle/2026/01/26/162ebe530838560d6818ddddcc30d693_6479333933126932730.png",
+          "id": "hnm_2"
+        }
+      ]
+    }
+  ]
+}

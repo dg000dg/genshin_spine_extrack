@@ -1,0 +1,75 @@
+name: Collect Star Rail Spine
+
+on:
+  watch:
+    types: [started]
+  workflow_dispatch:
+    inputs:
+      max_versions:
+        description: "本次最多处理多少个未完成版本，0 表示不限制"
+        required: false
+        default: "0"
+      force:
+        description: "覆盖已生成版本，未勾选则跳过已完成版本"
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    - cron: "21 18 * * *"
+
+concurrency:
+  group: collect-spine-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: spine
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect spine assets
+        shell: bash
+        run: |
+          MAX_VERSIONS="${{ github.event.inputs.max_versions || '0' }}"
+          FORCE_FLAG=""
+          if [ "${{ github.event.inputs.force || 'false' }}" = "true" ]; then
+            FORCE_FLAG="--force"
+          fi
+          python scripts/collect_sr_spine_global.py --output spine_data --max-versions "$MAX_VERSIONS" --timeout 10 --sleep 2 $FORCE_FLAG
+
+      - name: Commit collected assets
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add spine_data
+          if git diff --cached --quiet; then
+            echo "No spine_data changes to commit."
+          else
+            git stash push --include-untracked --message "collected-spine-data"
+            git pull --rebase origin spine
+            git stash pop
+            git add spine_data
+            git commit -m "chore: collect star rail spine assets"
+            for attempt in 1 2 3; do
+              if git push origin HEAD:spine; then
+                exit 0
+              fi
+              git pull --rebase origin spine
+              sleep 5
+            done
+            git push origin HEAD:spine
+          fi

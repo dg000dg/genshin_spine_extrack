@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Genshin Spine Local Player</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/EsotericSoftware/spine-runtimes@3.8/spine-ts/player/css/spine-player.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@esotericsoftware/spine-player@4.0.30/dist/spine-player.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@esotericsoftware/spine-player@4.1.24/dist/spine-player.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@esotericsoftware/spine-player@4.2.73/dist/spine-player.min.css">
+  <style>
+    :root {
+      --bg: #f5efe0;
+      --panel: #fffdf7;
+      --text: #1f2833;
+      --sub: #596777;
+      --line: #d8cdb3;
+      --accent: #ba8f42;
+      --accent-soft: #efe1c3;
+      --ok: #3d8152;
+      --err: #b94f4f;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--text);
+      font-family: "Segoe UI", "Microsoft YaHei", sans-serif;
+      background:
+        radial-gradient(circle at 12% 8%, rgba(186, 143, 66, 0.18), transparent 34%),
+        radial-gradient(circle at 92% 0%, rgba(127, 167, 210, 0.2), transparent 30%),
+        var(--bg);
+    }
+
+    .wrap {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 18px 14px 30px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: 0 12px 28px rgba(31, 40, 51, 0.08);
+    }
+
+    .toolbar {
+      padding: 12px;
+      display: grid;
+      grid-template-columns: 1fr 180px 180px auto;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .title {
+      margin: 0;
+      font-size: 22px;
+      letter-spacing: 0.02em;
+    }
+
+    .hint {
+      margin: 4px 0 0;
+      color: var(--sub);
+      font-size: 13px;
+    }
+
+    select, button {
+      min-height: 40px;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--text);
+      font: inherit;
+      padding: 0 10px;
+    }
+
+    button {
+      background: linear-gradient(135deg, var(--accent-soft), #fff);
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    button:hover {
+      border-color: var(--accent);
+    }
+
+    .status {
+      padding: 10px 12px;
+      color: var(--sub);
+      font-size: 14px;
+      border-top: 1px solid var(--line);
+    }
+
+    .status[data-tone="ok"] { color: var(--ok); }
+    .status[data-tone="error"] { color: var(--err); }
+
+    .stage {
+      padding: 12px;
+      min-height: 72vh;
+    }
+
+    #player {
+      width: 100%;
+      min-height: 68vh;
+      border-radius: 12px;
+      border: 1px dashed var(--line);
+      background: #f8f3e6;
+      overflow: hidden;
+    }
+
+    @media (max-width: 900px) {
+      .toolbar {
+        grid-template-columns: 1fr;
+      }
+
+      #player {
+        min-height: 56vh;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="panel">
+      <div class="toolbar">
+        <div>
+          <h1 class="title">Spine 本地资源播放器</h1>
+          <p class="hint">仅播放仓库内 `spine` 目录资源，适合 GitHub Pages。</p>
+        </div>
+        <select id="assetSelect" aria-label="选择资源"></select>
+        <select id="animationSelect" aria-label="选择动作"></select>
+        <button id="reloadBtn" type="button">重新加载清单</button>
+      </div>
+      <div id="status" class="status" data-tone="idle">正在加载资源清单...</div>
+    </section>
+
+    <section class="panel stage">
+      <div id="player"></div>
+    </section>
+  </main>
+
+  <script>
+    window.SpinePlayerRegistry = window.SpinePlayerRegistry || {};
+  </script>
+  <script src="https://cdn.jsdelivr.net/gh/EsotericSoftware/spine-runtimes@3.8/spine-ts/build/spine-player.js"></script>
+  <script>
+    window.SpinePlayerRegistry["3.8"] = window.spine;
+    window.spine = void 0;
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/@esotericsoftware/spine-player@4.0.30/dist/iife/spine-player.min.js"></script>
+  <script>
+    window.SpinePlayerRegistry["4.0"] = window.spine;
+    window.spine = void 0;
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/@esotericsoftware/spine-player@4.1.24/dist/iife/spine-player.min.js"></script>
+  <script>
+    window.SpinePlayerRegistry["4.1"] = window.spine;
+    window.spine = void 0;
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/@esotericsoftware/spine-player@4.2.73/dist/iife/spine-player.min.js"></script>
+  <script>
+    window.SpinePlayerRegistry["4.2"] = window.spine;
+    window.spine = void 0;
+  </script>
+  <script src="./player.js"></script>
+</body>
+</html>

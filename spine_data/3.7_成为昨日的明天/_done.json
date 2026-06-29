@@ -1,0 +1,73 @@
+{
+  "timestamp": "20260628120337",
+  "version": "3.7",
+  "title": "成为昨日的明天",
+  "source": "https://act.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/config.a6a1d0c5.js",
+  "config_count": 1,
+  "atlas_count": 2,
+  "saved_count": 2,
+  "assets": [
+    {
+      "path": "c7ce0d67d86e224f3c3bd5ff94c1b0d7_170224387050208805",
+      "atlas_name": "c7ce0d67d86e224f3c3bd5ff94c1b0d7_170224387050208805.atlas",
+      "json_name": "8574eb8b8dec66b18c070f349ef9455c_6014319495556849263.json",
+      "png_name": "xilian.png",
+      "png_names": [
+        "xilian.png",
+        "xilian_2.png",
+        "xilian_3.png"
+      ],
+      "atlas": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/c7ce0d67d86e224f3c3bd5ff94c1b0d7_170224387050208805.atlas",
+      "json": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/8574eb8b8dec66b18c070f349ef9455c_6014319495556849263.json",
+      "png": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/2e12d1717607d6654e69c353b3ce181a_6730149190004775995.png",
+      "pngs": [
+        {
+          "name": "xilian.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/2e12d1717607d6654e69c353b3ce181a_6730149190004775995.png",
+          "id": "xilian"
+        },
+        {
+          "name": "xilian_2.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/a874dd718afecc016fd938128ccc3c61_2108342982284128196.png",
+          "id": "xilian_2"
+        },
+        {
+          "name": "xilian_3.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/3c03bc1f9905bc0378399cd6f906948a_2656251220613998867.png",
+          "id": "xilian_3"
+        }
+      ]
+    },
+    {
+      "path": "c7ce0d67d86e224f3c3bd5ff94c1b0d7_5627419671415327913",
+      "atlas_name": "c7ce0d67d86e224f3c3bd5ff94c1b0d7_5627419671415327913.atlas",
+      "json_name": "8574eb8b8dec66b18c070f349ef9455c_6255431170615444596.json",
+      "png_name": "xilian.png",
+      "png_names": [
+        "xilian.png",
+        "xilian_2.png",
+        "xilian_3.png"
+      ],
+      "atlas": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/c7ce0d67d86e224f3c3bd5ff94c1b0d7_5627419671415327913.atlas",
+      "json": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/8574eb8b8dec66b18c070f349ef9455c_6255431170615444596.json",
+      "png": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/2e12d1717607d6654e69c353b3ce181a_1530223645182716058.png",
+      "pngs": [
+        {
+          "name": "xilian.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/2e12d1717607d6654e69c353b3ce181a_1530223645182716058.png",
+          "id": "xilian"
+        },
+        {
+          "name": "xilian_2.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/a874dd718afecc016fd938128ccc3c61_6663931796619657867.png",
+          "id": "xilian_2"
+        },
+        {
+          "name": "xilian_3.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_5Pho3vPZz4/resource/puzzle/2025/11/07/3c03bc1f9905bc0378399cd6f906948a_6461634497665536607.png",
+          "id": "xilian_3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "timestamp": "20260628120225",
+  "version": "3.8",
+  "title": "记忆是梦的开场白",
+  "source": "https://act.mihoyo.com/puzzle/hkrpg/pz_Hse3Q5Sb8j/config.c91f7a97.js",
+  "config_count": 1,
+  "atlas_count": 2,
+  "saved_count": 2,
+  "assets": [
+    {
+      "path": "eed86a56956e9c00a8a61b710662964a_7423284647206798398",
+      "atlas_name": "eed86a56956e9c00a8a61b710662964a_7423284647206798398.atlas",
+      "json_name": "9b8aaaea7de403aa0b737eb4a3343e05_1917161363892307158.json",
+      "png_name": "dali.png",
+      "png_names": [
+        "dali.png",
+        "dali_2.png"
+      ],
+      "atlas": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_Hse3Q5Sb8j/resource/puzzle/2025/12/03/eed86a56956e9c00a8a61b710662964a_7423284647206798398.atlas",
+      "json": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_Hse3Q5Sb8j/resource/puzzle/2025/12/03/9b8aaaea7de403aa0b737eb4a3343e05_1917161363892307158.json",
+      "png": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_Hse3Q5Sb8j/resource/puzzle/2025/12/03/3e5546ba3d1427f85cb1f8cf0bd87595_8571010197033466065.png",
+      "pngs": [
+        {
+          "name": "dali.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_Hse3Q5Sb8j/resource/puzzle/2025/12/03/3e5546ba3d1427f85cb1f8cf0bd87595_8571010197033466065.png",
+          "id": "dali"
+        },
+        {
+          "name": "dali_2.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_Hse3Q5Sb8j/resource/puzzle/2025/12/03/d4e02f7fd2421d28e09c731de3c5de50_1414720060078387220.png",
+          "id": "dali_2"
+        }
+      ]
+    },
+    {
+      "path": "eed86a56956e9c00a8a61b710662964a_6992584059922729521",
+      "atlas_name": "eed86a56956e9c00a8a61b710662964a_6992584059922729521.atlas",
+      "json_name": "9b8aaaea7de403aa0b737eb4a3343e05_1369911918223933099.json",
+      "png_name": "dali.png",
+      "png_names": [
+        "dali.png",
+        "dali_2.png"
+      ],
+      "atlas": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_Hse3Q5Sb8j/resource/puzzle/2025/12/03/eed86a56956e9c00a8a61b710662964a_6992584059922729521.atlas",
+      "json": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_Hse3Q5Sb8j/resource/puzzle/2025/12/03/9b8aaaea7de403aa0b737eb4a3343e05_1369911918223933099.json",
+      "png": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_Hse3Q5Sb8j/resource/puzzle/2025/12/03/3e5546ba3d1427f85cb1f8cf0bd87595_6416057814538598471.png",
+      "pngs": [
+        {
+          "name": "dali.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_Hse3Q5Sb8j/resource/puzzle/2025/12/03/3e5546ba3d1427f85cb1f8cf0bd87595_6416057814538598471.png",
+          "id": "dali"
+        },
+        {
+          "name": "dali_2.png",
+          "url": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_Hse3Q5Sb8j/resource/puzzle/2025/12/03/d4e02f7fd2421d28e09c731de3c5de50_1809417377213544622.png",
+          "id": "dali_2"
+        }
+      ]
+    }
+  ]
+}

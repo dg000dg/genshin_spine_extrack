@@ -1,0 +1,29 @@
+{
+  "timestamp": "20260414191339",
+  "version": "4.1",
+  "title": "献给破晓的失控",
+  "source": "https://web.archive.org/web/20260414191339id_/https://sr.mihoyo.com/",
+  "config_count": 1,
+  "atlas_count": 2,
+  "saved_count": 2,
+  "assets": [
+    {
+      "path": "a9c41cad4257cf578bd816e6d3cafa71_3339500221000361588",
+      "atlas_name": "a9c41cad4257cf578bd816e6d3cafa71_3339500221000361588.atlas",
+      "json_name": "7074ce9da2cffe35101b4f93eb42fcdb_3347508938102463137.json",
+      "png_name": "bushitu.png",
+      "atlas": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_m_gHUEqYs4/resource/puzzle/2026/03/09/a9c41cad4257cf578bd816e6d3cafa71_3339500221000361588.atlas",
+      "json": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_m_gHUEqYs4/resource/puzzle/2026/03/09/7074ce9da2cffe35101b4f93eb42fcdb_3347508938102463137.json",
+      "png": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_m_gHUEqYs4/resource/puzzle/2026/03/09/26528e52f8f4559f0d125f9b0358814e_8451510995201768651.png"
+    },
+    {
+      "path": "a9c41cad4257cf578bd816e6d3cafa71_8811572745084575850",
+      "atlas_name": "a9c41cad4257cf578bd816e6d3cafa71_8811572745084575850.atlas",
+      "json_name": "7074ce9da2cffe35101b4f93eb42fcdb_6034624175262715460.json",
+      "png_name": "bushitu.png",
+      "atlas": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_m_gHUEqYs4/resource/puzzle/2026/03/09/a9c41cad4257cf578bd816e6d3cafa71_8811572745084575850.atlas",
+      "json": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_m_gHUEqYs4/resource/puzzle/2026/03/09/7074ce9da2cffe35101b4f93eb42fcdb_6034624175262715460.json",
+      "png": "https://act-webstatic.mihoyo.com/puzzle/hkrpg/pz_m_gHUEqYs4/resource/puzzle/2026/03/09/26528e52f8f4559f0d125f9b0358814e_3954385936906764661.png"
+    }
+  ]
+}
