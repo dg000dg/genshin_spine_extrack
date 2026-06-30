@@ -1,0 +1,29 @@
+bg.png
+size:958,524
+filter:Linear,Linear
+scale:0.3
+后云1
+bounds:416,29,293,179
+offsets:0,8,293,187
+后云2
+bounds:714,359,231,164
+后云3
+bounds:714,228,167,129
+后云4
+bounds:711,52,246,156
+后云5
+bounds:416,210,313,296
+rotate:90
+图层 1 - 1
+bounds:711,7,42,43
+图层 1 - 2
+bounds:28,4,23,22
+rotate:90
+图层 1 - 3
+bounds:755,18,31,32
+图层 1 - 4
+bounds:1,1,26,25
+rotate:90
+背景 拷贝
+bounds:1,29,494,413
+rotate:90

@@ -1,0 +1,87 @@
+{
+  "timestamp": "20250427061120",
+  "version": "3.2",
+  "title": "Through the Petals in the Land of Repose",
+  "source": "https://web.archive.org/web/20250427061120id_/https://hsr.hoyoverse.com/en-us/",
+  "config_count": 1,
+  "atlas_count": 4,
+  "saved_count": 4,
+  "assets": [
+    {
+      "path": "c4b22cd3ca28c7003bb9a26cd7ec4774_1004454471295977566",
+      "atlas_name": "c4b22cd3ca28c7003bb9a26cd7ec4774_1004454471295977566.atlas",
+      "json_name": "71400bd27aa61188295e3a9625260c40_6502746535719311679.json",
+      "png_name": "Xiadie.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/c4b22cd3ca28c7003bb9a26cd7ec4774_1004454471295977566.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/71400bd27aa61188295e3a9625260c40_6502746535719311679.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/66ed5efff84f66fa0aa394194a16231d_7845587047169653718.png",
+      "pngs": [
+        {
+          "name": "Xiadie.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/66ed5efff84f66fa0aa394194a16231d_7845587047169653718.png"
+        },
+        {
+          "name": "Xiadie_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/04ba6baca0b101f1f32c673aa4a18534_122293835097497327.png"
+        }
+      ]
+    },
+    {
+      "path": "182448020cb9be14f451dfd7599c475d_4040512156012390959",
+      "atlas_name": "182448020cb9be14f451dfd7599c475d_4040512156012390959.atlas",
+      "json_name": "768c60f97271cd8440c5632d07b76099_8904516376429561194.json",
+      "png_name": "NaKexia.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/182448020cb9be14f451dfd7599c475d_4040512156012390959.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/768c60f97271cd8440c5632d07b76099_8904516376429561194.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/e9f1c8a0856dff2b2f6cc2f4d71ff0c6_5711630664587141647.png",
+      "pngs": [
+        {
+          "name": "NaKexia.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/e9f1c8a0856dff2b2f6cc2f4d71ff0c6_5711630664587141647.png"
+        },
+        {
+          "name": "NaKexia_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/b19d2ce58558cdd2e15bfe43d02c1b94_2288425386840003105.png"
+        }
+      ]
+    },
+    {
+      "path": "c4b22cd3ca28c7003bb9a26cd7ec4774_4774766663941836030",
+      "atlas_name": "c4b22cd3ca28c7003bb9a26cd7ec4774_4774766663941836030.atlas",
+      "json_name": "71400bd27aa61188295e3a9625260c40_6832193423820874020.json",
+      "png_name": "Xiadie.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/c4b22cd3ca28c7003bb9a26cd7ec4774_4774766663941836030.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/71400bd27aa61188295e3a9625260c40_6832193423820874020.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/66ed5efff84f66fa0aa394194a16231d_7675159740570482166.png",
+      "pngs": [
+        {
+          "name": "Xiadie.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/66ed5efff84f66fa0aa394194a16231d_7675159740570482166.png"
+        },
+        {
+          "name": "Xiadie_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/04ba6baca0b101f1f32c673aa4a18534_7099718447347668149.png"
+        }
+      ]
+    },
+    {
+      "path": "182448020cb9be14f451dfd7599c475d_2180064351290707053",
+      "atlas_name": "182448020cb9be14f451dfd7599c475d_2180064351290707053.atlas",
+      "json_name": "768c60f97271cd8440c5632d07b76099_4125452801777573065.json",
+      "png_name": "NaKexia.png",
+      "atlas": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/182448020cb9be14f451dfd7599c475d_2180064351290707053.atlas",
+      "json": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/768c60f97271cd8440c5632d07b76099_4125452801777573065.json",
+      "png": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/e9f1c8a0856dff2b2f6cc2f4d71ff0c6_2634321323163542748.png",
+      "pngs": [
+        {
+          "name": "NaKexia.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/e9f1c8a0856dff2b2f6cc2f4d71ff0c6_2634321323163542748.png"
+        },
+        {
+          "name": "NaKexia_2.png",
+          "url": "https://act-webstatic.hoyoverse.com/puzzle/hkrpg/pz_SbNtGiZNa2/resource/puzzle/2025/03/25/b19d2ce58558cdd2e15bfe43d02c1b94_9210160546053956908.png"
+        }
+      ]
+    }
+  ]
+}
